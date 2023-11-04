@@ -1,0 +1,14 @@
+PAD_TOKEN = '#PAD_TOKEN'
+ENTITY_EMB_DIM = 64 #64 in paper
+TYPE_EMB_DIM =32 #32 in paper
+REL_EMB_DIM = 32 #32 in paper
+HIDDEN_DIM = 256 #256 in paper
+TAG_SIZE = 2 #since 0 or 1
+
+MAX_PATH_LEN = 6
+NEG_SAMPLES_TRAIN = 4
+NEG_SAMPLES_TEST = 100
+
+LEN_3_BRANCH = 50 #branching factor for paths
+LEN_5_BRANCH_TRAIN = 6
+LEN_5_BRANCH_TEST= 10

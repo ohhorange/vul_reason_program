@@ -1,0 +1,1 @@
+[('hasMitigation', 'hasMitigation', 1.0), ('hasSoftware', 'hasAffectedSoftware', 0.5333333333333333), ('hasSoftware', 'hasSoftware', 1.0), ('usesSoftware', 'hasAffectedSoftware', 0.5161290322580645), ('usesSoftware', 'hasSoftware', 0.782608695652174)]

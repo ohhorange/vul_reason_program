@@ -1,0 +1,1841 @@
+labels1:journal labels2:type
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09657721946801043
+labels1:journal labels2:keywords
+levenshtein:0.0 synonym_distance:0.15384615384615385 Jaro_winkler:0.5119047619047619 res_similarity:0.23913951049238547
+labels1:journal labels2:location
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.4900793650793651 res_similarity:0.26519293710848824
+labels1:journal labels2:copyright
+levenshtein:0.2222222222222222 synonym_distance:0.1428571428571428 Jaro_winkler:0.5026455026455027 res_similarity:0.3119297754678082
+labels1:journal labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.125 Jaro_winkler:0.3225108225108224 res_similarity:0.1904499366070963
+labels1:journal labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.1428571428571428 Jaro_winkler:0.47619047619047605 res_similarity:0.2651795281075764
+labels1:journal labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.2666666666666666 Jaro_winkler:0.3285714285714285 res_similarity:0.23931090726192047
+labels1:journal labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.21052631578947367 Jaro_winkler:0.4365079365079365 res_similarity:0.2599907922657424
+labels1:journal labels2:school
+levenshtein:0.1428571428571429 synonym_distance:0.3076923076923077 Jaro_winkler:0.5396825396825397 res_similarity:0.34290761339909853
+labels1:journal labels2:directors
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.4179894179894179 res_similarity:0.2499787484569969
+labels1:journal labels2:url
+levenshtein:0.4285714285714286 synonym_distance:0.4 Jaro_winkler:0.6507936507936508 res_similarity:0.49256008186139977
+labels1:journal labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.25 Jaro_winkler:0.3225108225108224 res_similarity:0.22862716280153383
+labels1:journal labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.11111111111111116 Jaro_winkler:0.442002442002442 res_similarity:0.2113699520110375
+labels1:journal labels2:abstract
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.5119047619047619 res_similarity:0.2779299265131395
+labels1:journal labels2:size
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09604455682261408
+labels1:journal labels2:ontents
+levenshtein:0.1428571428571429 synonym_distance:0.1428571428571428 Jaro_winkler:0.5238095238095238 res_similarity:0.29169986822330873
+labels1:journal labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.11764705882352944 Jaro_winkler:0.5515873015873015 res_similarity:0.2996675940270613
+labels1:journal labels2:page and/or chapter data
+levenshtein:0.125 synonym_distance:0.12903225806451613 Jaro_winkler:0.4126984126984128 res_similarity:0.25835462400594056
+labels1:journal labels2:publisher
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.5026455026455027 res_similarity:0.22423487544102016
+labels1:journal labels2:pages
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08273810605113785
+labels1:journal labels2:language
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.4900793650793651 res_similarity:0.29656775771229743
+labels1:journal labels2:price
+levenshtein:0.1428571428571429 synonym_distance:0.19999999999999996 Jaro_winkler:0.4476190476190476 res_similarity:0.2772838416830543
+labels1:journal labels2:in journal
+levenshtein:0.7 synonym_distance:0.8235294117647058 Jaro_winkler:0.8047619047619047 res_similarity:0.7862040400988414
+labels1:journal labels2:edition
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.4285714285714286 res_similarity:0.27540160587121
+labels1:journal labels2:issn
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.4642857142857142 res_similarity:0.2839475974341289
+labels1:journal labels2:date
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.0 res_similarity:0.15251592976142272
+labels1:journal labels2:annote
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.373015873015873 res_similarity:0.19774674835258021
+labels1:journal labels2:isbn
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.4642857142857142 res_similarity:0.2852188084414451
+labels1:journal labels2:title
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.09997149435356267
+labels1:journal labels2:note
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.4642857142857142 res_similarity:0.2728849691932005
+labels1:journal labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.11111111111111116 Jaro_winkler:0.543040293040293 res_similarity:0.28908693120080897
+labels1:journal labels2:chapter
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.0 res_similarity:0.07261954907774451
+labels1:journal labels2:editor
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.4365079365079365 res_similarity:0.2974864755002622
+labels1:journal labels2:published
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.5026455026455027 res_similarity:0.22785510368887582
+labels1:journal labels2:author
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.5396825396825397 res_similarity:0.31194031403758654
+labels1:journal labels2:lccn
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.4642857142857142 res_similarity:0.284587078319691
+labels1:journal labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.11764705882352944 Jaro_winkler:0.5515873015873015 res_similarity:0.2823447526987162
+labels1:journal labels2:series
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.4365079365079365 res_similarity:0.25404399960662133
+labels1:communications labels2:type
+levenshtein:0.0714285714285714 synonym_distance:0.11764705882352944 Jaro_winkler:0.0 res_similarity:0.07031244962970017
+labels1:communications labels2:keywords
+levenshtein:0.0714285714285714 synonym_distance:0.1428571428571428 Jaro_winkler:0.4642857142857142 res_similarity:0.2146814608155897
+labels1:communications labels2:location
+levenshtein:0.5 synonym_distance:0.5714285714285714 Jaro_winkler:0.6488095238095238 res_similarity:0.5787680403877806
+labels1:communications labels2:copyright
+levenshtein:0.2857142857142857 synonym_distance:0.18181818181818188 Jaro_winkler:0.5767195767195767 res_similarity:0.37221243612094673
+labels1:communications labels2:institution
+levenshtein:0.3571428571428571 synonym_distance:0.33333333333333326 Jaro_winkler:0.6168831168831169 res_similarity:0.4395031334719736
+labels1:communications labels2:mr number
+levenshtein:0.1428571428571429 synonym_distance:0.09090909090909094 Jaro_winkler:0.4933862433862435 res_similarity:0.2809854820524656
+labels1:communications labels2:is part of
+levenshtein:0.1428571428571429 synonym_distance:0.08695652173913038 Jaro_winkler:0.5619047619047619 res_similarity:0.2788634472451413
+labels1:communications labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.5714285714285715 res_similarity:0.3465900709607032
+labels1:communications labels2:school
+levenshtein:0.1428571428571429 synonym_distance:0.10526315789473684 Jaro_winkler:0.4920634920634921 res_similarity:0.2599809779125226
+labels1:communications labels2:directors
+levenshtein:0.2857142857142857 synonym_distance:0.13793103448275867 Jaro_winkler:0.5042328042328043 res_similarity:0.30613887182577204
+labels1:communications labels2:url
+levenshtein:0.0714285714285714 synonym_distance:0.125 Jaro_winkler:0.46825396825396814 res_similarity:0.2575004127841165
+labels1:communications labels2:affiliation
+levenshtein:0.4285714285714286 synonym_distance:0.41666666666666674 Jaro_winkler:0.6024531024531025 res_similarity:0.4878674391817778
+labels1:communications labels2:in collection
+levenshtein:0.2857142857142857 synonym_distance:0.3076923076923077 Jaro_winkler:0.7043142043142043 res_similarity:0.4257638192847736
+labels1:communications labels2:abstract
+levenshtein:0.1428571428571429 synonym_distance:0.09523809523809523 Jaro_winkler:0.4186507936507937 res_similarity:0.2027103037794586
+labels1:communications labels2:size
+levenshtein:0.0714285714285714 synonym_distance:0.11764705882352944 Jaro_winkler:0.44047619047619047 res_similarity:0.22115470081631283
+labels1:communications labels2:ontents
+levenshtein:0.2857142857142857 synonym_distance:0.19999999999999996 Jaro_winkler:0.5476190476190476 res_similarity:0.34513176158580705
+labels1:communications labels2:organization
+levenshtein:0.5714285714285714 synonym_distance:0.4 Jaro_winkler:0.7043650793650794 res_similarity:0.5643173966178159
+labels1:communications labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.10810810810810811 Jaro_winkler:0.4551587301587301 res_similarity:0.2470341405800596
+labels1:communications labels2:publisher
+levenshtein:0.0714285714285714 synonym_distance:0.13793103448275867 Jaro_winkler:0.4550264550264551 res_similarity:0.23903810347835583
+labels1:communications labels2:pages
+levenshtein:0.1428571428571429 synonym_distance:0.11111111111111116 Jaro_winkler:0.0 res_similarity:0.0897493763828709
+labels1:communications labels2:language
+levenshtein:0.1428571428571429 synonym_distance:0.19047619047619047 Jaro_winkler:0.4186507936507937 res_similarity:0.24968648537464103
+labels1:communications labels2:price
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.3476190476190477 res_similarity:0.24801207432932076
+labels1:communications labels2:in journal
+levenshtein:0.0714285714285714 synonym_distance:0.17391304347826086 Jaro_winkler:0.5095238095238095 res_similarity:0.25445647527275106
+labels1:communications labels2:edition
+levenshtein:0.3571428571428571 synonym_distance:0.4 Jaro_winkler:0.557142857142857 res_similarity:0.4276844837096946
+labels1:communications labels2:issn
+levenshtein:0.1428571428571429 synonym_distance:0.11764705882352944 Jaro_winkler:0.38095238095238093 res_similarity:0.22179032742765034
+labels1:communications labels2:date
+levenshtein:0.1428571428571429 synonym_distance:0.23529411764705888 Jaro_winkler:0.0 res_similarity:0.12990560796070333
+labels1:communications labels2:annote
+levenshtein:0.1428571428571429 synonym_distance:0.10526315789473684 Jaro_winkler:0.46031746031746024 res_similarity:0.24166569513494376
+labels1:communications labels2:isbn
+levenshtein:0.1428571428571429 synonym_distance:0.11764705882352944 Jaro_winkler:0.38095238095238093 res_similarity:0.22938939598206204
+labels1:communications labels2:title
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.42380952380952386 res_similarity:0.26502064416425175
+labels1:communications labels2:note
+levenshtein:0.1428571428571429 synonym_distance:0.11764705882352944 Jaro_winkler:0.38095238095238093 res_similarity:0.22108959610676882
+labels1:communications labels2:human creator
+levenshtein:0.2857142857142857 synonym_distance:0.15384615384615385 Jaro_winkler:0.6318681318681318 res_similarity:0.3401366559190597
+labels1:communications labels2:chapter
+levenshtein:0.1428571428571429 synonym_distance:0.09999999999999998 Jaro_winkler:0.5476190476190476 res_similarity:0.282340073752601
+labels1:communications labels2:editor
+levenshtein:0.2142857142857143 synonym_distance:0.15384615384615385 Jaro_winkler:0.46031746031746024 res_similarity:0.29045171476709686
+labels1:communications labels2:published
+levenshtein:0.0714285714285714 synonym_distance:0.13793103448275867 Jaro_winkler:0.4550264550264551 res_similarity:0.25164135921788916
+labels1:communications labels2:author
+levenshtein:0.2142857142857143 synonym_distance:0.15384615384615385 Jaro_winkler:0.32539682539682535 res_similarity:0.24222085411960742
+labels1:communications labels2:lccn
+levenshtein:0.1428571428571429 synonym_distance:0.11764705882352944 Jaro_winkler:0.5436507936507936 res_similarity:0.28976840061375286
+labels1:communications labels2:inmonography
+levenshtein:0.1428571428571429 synonym_distance:0.16000000000000003 Jaro_winkler:0.4761904761904763 res_similarity:0.25902445646587613
+labels1:communications labels2:series
+levenshtein:0.1428571428571429 synonym_distance:0.10526315789473684 Jaro_winkler:0.4126984126984128 res_similarity:0.22111407030789276
+labels1:directors labels2:type
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.4537037037037037 res_similarity:0.26977766200480074
+labels1:directors labels2:keywords
+levenshtein:0.33333333333333337 synonym_distance:0.25 Jaro_winkler:0.5648148148148148 res_similarity:0.38199148183096376
+labels1:directors labels2:location
+levenshtein:0.11111111111111116 synonym_distance:0.23529411764705888 Jaro_winkler:0.5694444444444444 res_similarity:0.29648341161349545
+labels1:directors labels2:copyright
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.4814814814814814 res_similarity:0.2524754903361566
+labels1:directors labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.19999999999999996 Jaro_winkler:0.5353535353535354 res_similarity:0.25289432787071164
+labels1:directors labels2:mr number
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.4814814814814814 res_similarity:0.27573533216387613
+labels1:directors labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.11764705882352944 Jaro_winkler:0.6148148148148148 res_similarity:0.29447826069928673
+labels1:directors labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.19354838709677424 Jaro_winkler:0.6428571428571428 res_similarity:0.38295869653332537
+labels1:directors labels2:school
+levenshtein:0.2222222222222222 synonym_distance:0.1428571428571428 Jaro_winkler:0.5185185185185185 res_similarity:0.3038342036913384
+labels1:directors labels2:directors
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:directors labels2:url
+levenshtein:0.11111111111111116 synonym_distance:0.19999999999999996 Jaro_winkler:0.4814814814814814 res_similarity:0.2816174228254535
+labels1:directors labels2:affiliation
+levenshtein:0.18181818181818177 synonym_distance:0.25 Jaro_winkler:0.5353535353535354 res_similarity:0.32141481833307467
+labels1:directors labels2:in collection
+levenshtein:0.23076923076923073 synonym_distance:0.2857142857142857 Jaro_winkler:0.5133903133903134 res_similarity:0.3350200282379135
+labels1:directors labels2:abstract
+levenshtein:0.11111111111111116 synonym_distance:0.25 Jaro_winkler:0.45833333333333326 res_similarity:0.29964654186875783
+labels1:directors labels2:size
+levenshtein:0.2222222222222222 synonym_distance:0.2222222222222222 Jaro_winkler:0.5740740740740741 res_similarity:0.36994329214016897
+labels1:directors labels2:ontents
+levenshtein:0.33333333333333337 synonym_distance:0.25 Jaro_winkler:0.47619047619047605 res_similarity:0.35468477785809926
+labels1:directors labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.21052631578947367 Jaro_winkler:0.5092592592592592 res_similarity:0.2988220380967857
+labels1:directors labels2:page and/or chapter data
+levenshtein:0.20833333333333337 synonym_distance:0.19354838709677424 Jaro_winkler:0.546957671957672 res_similarity:0.3144481905779775
+labels1:directors labels2:publisher
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.4444444444444444 res_similarity:0.26520129368295065
+labels1:directors labels2:pages
+levenshtein:0.2222222222222222 synonym_distance:0.5 Jaro_winkler:0.4370370370370371 res_similarity:0.4072531433046116
+labels1:directors labels2:language
+levenshtein:0.0 synonym_distance:0.4 Jaro_winkler:0.0 res_similarity:0.16613620253880212
+labels1:directors labels2:price
+levenshtein:0.2222222222222222 synonym_distance:0.21052631578947367 Jaro_winkler:0.5814814814814815 res_similarity:0.3433352167420746
+labels1:directors labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.23529411764705888 Jaro_winkler:0.43333333333333335 res_similarity:0.2594754377507484
+labels1:directors labels2:edition
+levenshtein:0.2222222222222222 synonym_distance:0.2666666666666666 Jaro_winkler:0.6899470899470899 res_similarity:0.4151785695969292
+labels1:directors labels2:issn
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.4537037037037037 res_similarity:0.2630317489673444
+labels1:directors labels2:date
+levenshtein:0.2222222222222222 synonym_distance:0.30000000000000004 Jaro_winkler:0.5833333333333334 res_similarity:0.35517032487971123
+labels1:directors labels2:annote
+levenshtein:0.11111111111111116 synonym_distance:0.3076923076923077 Jaro_winkler:0.5 res_similarity:0.3172112748226765
+labels1:directors labels2:isbn
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.4537037037037037 res_similarity:0.25815142214215514
+labels1:directors labels2:title
+levenshtein:0.2222222222222222 synonym_distance:0.16666666666666663 Jaro_winkler:0.5333333333333333 res_similarity:0.32546761131848173
+labels1:directors labels2:note
+levenshtein:0.11111111111111116 synonym_distance:0.19999999999999996 Jaro_winkler:0.40740740740740744 res_similarity:0.22396834996727494
+labels1:directors labels2:human creator
+levenshtein:0.3076923076923077 synonym_distance:0.30000000000000004 Jaro_winkler:0.6538461538461539 res_similarity:0.4507291519441177
+labels1:directors labels2:chapter
+levenshtein:0.2222222222222222 synonym_distance:0.2857142857142857 Jaro_winkler:0.47619047619047605 res_similarity:0.3281784674504606
+labels1:directors labels2:editor
+levenshtein:0.4444444444444444 synonym_distance:0.4285714285714286 Jaro_winkler:0.7222222222222222 res_similarity:0.5311262043860763
+labels1:directors labels2:published
+levenshtein:0.0 synonym_distance:0.16000000000000003 Jaro_winkler:0.4814814814814814 res_similarity:0.24138554484198177
+labels1:directors labels2:author
+levenshtein:0.2222222222222222 synonym_distance:0.2857142857142857 Jaro_winkler:0.5 res_similarity:0.34937691028371287
+labels1:directors labels2:lccn
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.4537037037037037 res_similarity:0.2673504500075736
+labels1:directors labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.41666666666666674 res_similarity:0.2554052221490009
+labels1:directors labels2:series
+levenshtein:0.2222222222222222 synonym_distance:0.3076923076923077 Jaro_winkler:0.6203703703703703 res_similarity:0.37452815538358053
+labels1:pages labels2:type
+levenshtein:0.19999999999999996 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.3193586614994306
+labels1:pages labels2:keywords
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5499999999999999 res_similarity:0.29752972447974746
+labels1:pages labels2:location
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.44166666666666665 res_similarity:0.26044063481477464
+labels1:pages labels2:copyright
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.4370370370370371 res_similarity:0.289281932430157
+labels1:pages labels2:institution
+levenshtein:0.0 synonym_distance:0.13793103448275867 Jaro_winkler:0.4303030303030304 res_similarity:0.21722020908199746
+labels1:pages labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.0 res_similarity:0.1013260895999323
+labels1:pages labels2:is part of
+levenshtein:0.19999999999999996 synonym_distance:0.2857142857142857 Jaro_winkler:0.5222222222222221 res_similarity:0.3389972343659222
+labels1:pages labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.11111111111111116 Jaro_winkler:0.5142857142857143 res_similarity:0.3117578727250495
+labels1:pages labels2:school
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.0 res_similarity:0.07856993862270771
+labels1:pages labels2:directors
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.4370370370370371 res_similarity:0.2735128983360229
+labels1:pages labels2:url
+levenshtein:0.0 synonym_distance:0.4444444444444444 Jaro_winkler:0.0 res_similarity:0.18866036087258964
+labels1:pages labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.13793103448275867 Jaro_winkler:0.4303030303030304 res_similarity:0.22418502313014188
+labels1:pages labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.21052631578947367 Jaro_winkler:0.4256410256410257 res_similarity:0.24937853051228365
+labels1:pages labels2:abstract
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.5499999999999999 res_similarity:0.27001860570481306
+labels1:pages labels2:size
+levenshtein:0.19999999999999996 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.3224194133591921
+labels1:pages labels2:ontents
+levenshtein:0.2857142857142857 synonym_distance:0.18181818181818188 Jaro_winkler:0.5619047619047619 res_similarity:0.3230778952264136
+labels1:pages labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.1333333333333333 Jaro_winkler:0.3555555555555556 res_similarity:0.20718189835098094
+labels1:pages labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.2857142857142857 Jaro_winkler:0.6555555555555556 res_similarity:0.3942914375109975
+labels1:pages labels2:publisher
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.5407407407407407 res_similarity:0.3281275842630549
+labels1:pages labels2:pages
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:pages labels2:language
+levenshtein:0.25 synonym_distance:0.5 Jaro_winkler:0.5499999999999999 res_similarity:0.463454373490213
+labels1:pages labels2:price
+levenshtein:0.19999999999999996 synonym_distance:0.2222222222222222 Jaro_winkler:0.6 res_similarity:0.35882927054893204
+labels1:pages labels2:in journal
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.0 res_similarity:0.056760770552778554
+labels1:pages labels2:edition
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.0 res_similarity:0.07723133903228314
+labels1:pages labels2:issn
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.10743293216326366
+labels1:pages labels2:date
+levenshtein:0.4 synonym_distance:0.25 Jaro_winkler:0.6333333333333333 res_similarity:0.43742634107526446
+labels1:pages labels2:annote
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.5777777777777778 res_similarity:0.29152500781921803
+labels1:pages labels2:isbn
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09474047385064724
+labels1:pages labels2:title
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.46666666666666656 res_similarity:0.2966221045984794
+labels1:pages labels2:note
+levenshtein:0.19999999999999996 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.305646808256416
+labels1:pages labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.12903225806451613 Jaro_winkler:0.517948717948718 res_similarity:0.27619223932431003
+labels1:pages labels2:chapter
+levenshtein:0.2857142857142857 synonym_distance:0.18181818181818188 Jaro_winkler:0.5619047619047619 res_similarity:0.358815585125723
+labels1:pages labels2:editor
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.0887629648267275
+labels1:pages labels2:published
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.5407407407407407 res_similarity:0.3338060565846156
+labels1:pages labels2:author
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.4555555555555555 res_similarity:0.22890061743883644
+labels1:pages labels2:lccn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08312972053946215
+labels1:pages labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.1333333333333333 Jaro_winkler:0.4277777777777778 res_similarity:0.2571953653721294
+labels1:pages labels2:series
+levenshtein:0.33333333333333337 synonym_distance:0.36363636363636365 Jaro_winkler:0.5777777777777778 res_similarity:0.43514254302485766
+labels1:address labels2:type
+levenshtein:0.1428571428571429 synonym_distance:0.4 Jaro_winkler:0.4642857142857142 res_similarity:0.33733719821471275
+labels1:address labels2:keywords
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.4900793650793651 res_similarity:0.25888361787176767
+labels1:address labels2:location
+levenshtein:0.0 synonym_distance:0.5263157894736842 Jaro_winkler:0.42261904761904767 res_similarity:0.3446854465608523
+labels1:address labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.16000000000000003 Jaro_winkler:0.4179894179894179 res_similarity:0.23880416870193372
+labels1:address labels2:institution
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.4112554112554112 res_similarity:0.2945558596483261
+labels1:address labels2:mr number
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.5026455026455027 res_similarity:0.26746551259695744
+labels1:address labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.125 Jaro_winkler:0.465079365079365 res_similarity:0.22631141282504746
+labels1:address labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.19999999999999996 Jaro_winkler:0.4761904761904763 res_similarity:0.2803916763719251
+labels1:address labels2:school
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.13676858218554105
+labels1:address labels2:directors
+levenshtein:0.33333333333333337 synonym_distance:0.2857142857142857 Jaro_winkler:0.671957671957672 res_similarity:0.4457228146310206
+labels1:address labels2:url
+levenshtein:0.1428571428571429 synonym_distance:0.19999999999999996 Jaro_winkler:0.4920634920634921 res_similarity:0.3053287334343532
+labels1:address labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.4545454545454546 Jaro_winkler:0.4112554112554112 res_similarity:0.35896474212572715
+labels1:address labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.33333333333333326 Jaro_winkler:0.4065934065934067 res_similarity:0.2819961528111824
+labels1:address labels2:abstract
+levenshtein:0.25 synonym_distance:0.21052631578947367 Jaro_winkler:0.4900793650793651 res_similarity:0.3280394575091624
+labels1:address labels2:size
+levenshtein:0.1428571428571429 synonym_distance:0.19999999999999996 Jaro_winkler:0.4642857142857142 res_similarity:0.2637805014549929
+labels1:address labels2:ontents
+levenshtein:0.1428571428571429 synonym_distance:0.25 Jaro_winkler:0.5238095238095238 res_similarity:0.315966105434891
+labels1:address labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.4347826086956521 Jaro_winkler:0.31746031746031744 res_similarity:0.2710308104095771
+labels1:address labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.15000000000000002 Jaro_winkler:0.49603174603174605 res_similarity:0.2903723326396915
+labels1:address labels2:publisher
+levenshtein:0.11111111111111116 synonym_distance:0.2222222222222222 Jaro_winkler:0.33597883597883604 res_similarity:0.22812993611782875
+labels1:address labels2:pages
+levenshtein:0.2857142857142857 synonym_distance:0.33333333333333326 Jaro_winkler:0.6761904761904761 res_similarity:0.42554138488586
+labels1:address labels2:language
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5119047619047619 res_similarity:0.28574574979918665
+labels1:address labels2:price
+levenshtein:0.1428571428571429 synonym_distance:0.2857142857142857 Jaro_winkler:0.5619047619047619 res_similarity:0.3256759043793701
+labels1:address labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.19047619047619047 Jaro_winkler:0.41428571428571437 res_similarity:0.2599941674284321
+labels1:address labels2:edition
+levenshtein:0.1428571428571429 synonym_distance:0.4444444444444444 Jaro_winkler:0.4285714285714286 res_similarity:0.3633406526223886
+labels1:address labels2:issn
+levenshtein:0.1428571428571429 synonym_distance:0.36363636363636365 Jaro_winkler:0.0 res_similarity:0.19773188367433248
+labels1:address labels2:date
+levenshtein:0.2857142857142857 synonym_distance:0.2666666666666666 Jaro_winkler:0.6150793650793651 res_similarity:0.40019399654822063
+labels1:address labels2:annote
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.5396825396825397 res_similarity:0.3178167436553586
+labels1:address labels2:isbn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08516811965616769
+labels1:address labels2:title
+levenshtein:0.1428571428571429 synonym_distance:0.25 Jaro_winkler:0.4476190476190476 res_similarity:0.2853032586670313
+labels1:address labels2:note
+levenshtein:0.1428571428571429 synonym_distance:0.19999999999999996 Jaro_winkler:0.4642857142857142 res_similarity:0.274959389177321
+labels1:address labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.19999999999999996 Jaro_winkler:0.553113553113553 res_similarity:0.33914792516961295
+labels1:address labels2:chapter
+levenshtein:0.0 synonym_distance:0.3076923076923077 Jaro_winkler:0.5238095238095238 res_similarity:0.3131013333718858
+labels1:address labels2:editor
+levenshtein:0.1428571428571429 synonym_distance:0.16666666666666663 Jaro_winkler:0.5396825396825397 res_similarity:0.3012943970656843
+labels1:address labels2:published
+levenshtein:0.11111111111111116 synonym_distance:0.16000000000000003 Jaro_winkler:0.33597883597883604 res_similarity:0.2036995258039016
+labels1:address labels2:author
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.5396825396825397 res_similarity:0.2940568404902289
+labels1:address labels2:lccn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08189928578526805
+labels1:address labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.17391304347826086 Jaro_winkler:0.40873015873015883 res_similarity:0.2440663313980827
+labels1:address labels2:series
+levenshtein:0.2857142857142857 synonym_distance:0.3076923076923077 Jaro_winkler:0.6428571428571429 res_similarity:0.4038338624578708
+labels1:institution labels2:type
+levenshtein:0.09090909090909094 synonym_distance:0.19999999999999996 Jaro_winkler:0.446969696969697 res_similarity:0.2582160006858893
+labels1:institution labels2:keywords
+levenshtein:0.0 synonym_distance:0.21052631578947367 Jaro_winkler:0.0 res_similarity:0.07885342869064403
+labels1:institution labels2:location
+levenshtein:0.36363636363636365 synonym_distance:0.625 Jaro_winkler:0.6212121212121212 res_similarity:0.5099528558961316
+labels1:institution labels2:copyright
+levenshtein:0.09090909090909094 synonym_distance:0.30000000000000004 Jaro_winkler:0.468013468013468 res_similarity:0.2811676679641396
+labels1:institution labels2:institution
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:institution labels2:mr number
+levenshtein:0.09090909090909094 synonym_distance:0.2666666666666666 Jaro_winkler:0.468013468013468 res_similarity:0.2802696340137046
+labels1:institution labels2:is part of
+levenshtein:0.36363636363636365 synonym_distance:0.17391304347826086 Jaro_winkler:0.5878787878787879 res_similarity:0.3864599052644778
+labels1:institution labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.36363636363636365 Jaro_winkler:0.5372294372294372 res_similarity:0.382396091194279
+labels1:institution labels2:school
+levenshtein:0.18181818181818177 synonym_distance:0.23529411764705888 Jaro_winkler:0.4191919191919191 res_similarity:0.284815171320714
+labels1:institution labels2:directors
+levenshtein:0.09090909090909094 synonym_distance:0.23529411764705888 Jaro_winkler:0.5353535353535354 res_similarity:0.29966879037201777
+labels1:institution labels2:url
+levenshtein:0.09090909090909094 synonym_distance:0.2666666666666666 Jaro_winkler:0.0 res_similarity:0.1238242618852761
+labels1:institution labels2:affiliation
+levenshtein:0.36363636363636365 synonym_distance:0.5714285714285714 Jaro_winkler:0.6414141414141414 res_similarity:0.5239232721006861
+labels1:institution labels2:in collection
+levenshtein:0.46153846153846156 synonym_distance:0.4 Jaro_winkler:0.6134421134421135 res_similarity:0.5007009359901866
+labels1:institution labels2:abstract
+levenshtein:0.2727272727272727 synonym_distance:0.21052631578947367 Jaro_winkler:0.5492424242424242 res_similarity:0.33260880239876334
+labels1:institution labels2:size
+levenshtein:0.18181818181818177 synonym_distance:0.19999999999999996 Jaro_winkler:0.39393939393939403 res_similarity:0.26125432103860413
+labels1:institution labels2:ontents
+levenshtein:0.2727272727272727 synonym_distance:0.33333333333333326 Jaro_winkler:0.5616883116883117 res_similarity:0.4016878145983151
+labels1:institution labels2:organization
+levenshtein:0.41666666666666663 synonym_distance:0.5 Jaro_winkler:0.6262626262626263 res_similarity:0.5160013783663633
+labels1:institution labels2:page and/or chapter data
+levenshtein:0.08333333333333337 synonym_distance:0.17647058823529416 Jaro_winkler:0.3547979797979799 res_similarity:0.210615759053988
+labels1:institution labels2:publisher
+levenshtein:0.09090909090909094 synonym_distance:0.4545454545454546 Jaro_winkler:0.468013468013468 res_similarity:0.3337999289971026
+labels1:institution labels2:pages
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.4303030303030304 res_similarity:0.2462715856178297
+labels1:institution labels2:language
+levenshtein:0.09090909090909094 synonym_distance:0.25 Jaro_winkler:0.4772727272727273 res_similarity:0.28019413073716387
+labels1:institution labels2:price
+levenshtein:0.09090909090909094 synonym_distance:0.25 Jaro_winkler:0.4303030303030304 res_similarity:0.2944039891230556
+labels1:institution labels2:in journal
+levenshtein:0.2727272727272727 synonym_distance:0.2222222222222222 Jaro_winkler:0.5878787878787879 res_similarity:0.3689717442758853
+labels1:institution labels2:edition
+levenshtein:0.4545454545454546 synonym_distance:0.5333333333333333 Jaro_winkler:0.7229437229437229 res_similarity:0.5702622756887307
+labels1:institution labels2:issn
+levenshtein:0.2727272727272727 synonym_distance:0.23529411764705888 Jaro_winkler:0.5631313131313131 res_similarity:0.3696605601338932
+labels1:institution labels2:date
+levenshtein:0.09090909090909094 synonym_distance:0.4285714285714286 Jaro_winkler:0.446969696969697 res_similarity:0.3175159185560045
+labels1:institution labels2:annote
+levenshtein:0.18181818181818177 synonym_distance:0.375 Jaro_winkler:0.5050505050505051 res_similarity:0.34734260754438606
+labels1:institution labels2:isbn
+levenshtein:0.2727272727272727 synonym_distance:0.23529411764705888 Jaro_winkler:0.5631313131313131 res_similarity:0.3733825054968274
+labels1:institution labels2:title
+levenshtein:0.2727272727272727 synonym_distance:0.375 Jaro_winkler:0.5131313131313131 res_similarity:0.39583315685697007
+labels1:institution labels2:note
+levenshtein:0.18181818181818177 synonym_distance:0.2857142857142857 Jaro_winkler:0.5606060606060607 res_similarity:0.34557534511921306
+labels1:institution labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.47619047619047616 Jaro_winkler:0.47377622377622375 res_similarity:0.38301240850290924
+labels1:institution labels2:chapter
+levenshtein:0.09090909090909094 synonym_distance:0.15384615384615385 Jaro_winkler:0.4112554112554112 res_similarity:0.2510251815036502
+labels1:institution labels2:editor
+levenshtein:0.2727272727272727 synonym_distance:0.2857142857142857 Jaro_winkler:0.5050505050505051 res_similarity:0.3705969632994274
+labels1:institution labels2:published
+levenshtein:0.09090909090909094 synonym_distance:0.4545454545454546 Jaro_winkler:0.468013468013468 res_similarity:0.33553950037301516
+labels1:institution labels2:author
+levenshtein:0.2727272727272727 synonym_distance:0.23529411764705888 Jaro_winkler:0.4191919191919191 res_similarity:0.3160526814860924
+labels1:institution labels2:lccn
+levenshtein:0.09090909090909094 synonym_distance:0.19999999999999996 Jaro_winkler:0.446969696969697 res_similarity:0.24833728560783946
+labels1:institution labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.5075757575757576 res_similarity:0.28848093971645317
+labels1:institution labels2:series
+levenshtein:0.18181818181818177 synonym_distance:0.23529411764705888 Jaro_winkler:0.33838383838383845 res_similarity:0.2553705640430547
+labels1:date labels2:type
+levenshtein:0.25 synonym_distance:0.25 Jaro_winkler:0.5 res_similarity:0.3410858813439457
+labels1:date labels2:keywords
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.45833333333333326 res_similarity:0.2751395561654964
+labels1:date labels2:location
+levenshtein:0.25 synonym_distance:0.33333333333333326 Jaro_winkler:0.5833333333333334 res_similarity:0.38509352740090985
+labels1:date labels2:copyright
+levenshtein:0.0 synonym_distance:0.2666666666666666 Jaro_winkler:0.0 res_similarity:0.11268329396612764
+labels1:date labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.18181818181818188 Jaro_winkler:0.446969696969697 res_similarity:0.26371581558741164
+labels1:date labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.0 res_similarity:0.09939340663233537
+labels1:date labels2:is part of
+levenshtein:0.19999999999999996 synonym_distance:0.32000000000000006 Jaro_winkler:0.5666666666666667 res_similarity:0.3659399942359778
+labels1:date labels2:in proceedings
+levenshtein:0.0714285714285714 synonym_distance:0.16666666666666663 Jaro_winkler:0.44047619047619047 res_similarity:0.26360271392723067
+labels1:date labels2:school
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.13744380019160451
+labels1:date labels2:directors
+levenshtein:0.2222222222222222 synonym_distance:0.2666666666666666 Jaro_winkler:0.5833333333333334 res_similarity:0.3634565304146422
+labels1:date labels2:url
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09040166715325317
+labels1:date labels2:affiliation
+levenshtein:0.18181818181818177 synonym_distance:0.2666666666666666 Jaro_winkler:0.446969696969697 res_similarity:0.2916149707916969
+labels1:date labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.21052631578947367 Jaro_winkler:0.4423076923076923 res_similarity:0.2529919412550814
+labels1:date labels2:abstract
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5833333333333334 res_similarity:0.32571602943252054
+labels1:date labels2:size
+levenshtein:0.25 synonym_distance:0.25 Jaro_winkler:0.5 res_similarity:0.3322429225604232
+labels1:date labels2:ontents
+levenshtein:0.2857142857142857 synonym_distance:0.36363636363636365 Jaro_winkler:0.5952380952380952 res_similarity:0.4193397944319761
+labels1:date labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.25 Jaro_winkler:0.4444444444444444 res_similarity:0.294091485087655
+labels1:date labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.2142857142857143 Jaro_winkler:0.5138888888888888 res_similarity:0.3187600616931132
+labels1:date labels2:publisher
+levenshtein:0.11111111111111116 synonym_distance:0.16000000000000003 Jaro_winkler:0.0 res_similarity:0.09745211984967739
+labels1:date labels2:pages
+levenshtein:0.4 synonym_distance:0.4 Jaro_winkler:0.6333333333333333 res_similarity:0.4795934149015446
+labels1:date labels2:language
+levenshtein:0.25 synonym_distance:0.33333333333333326 Jaro_winkler:0.45833333333333326 res_similarity:0.34554562461977756
+labels1:date labels2:price
+levenshtein:0.19999999999999996 synonym_distance:0.2222222222222222 Jaro_winkler:0.4833333333333334 res_similarity:0.30401945304185884
+labels1:date labels2:in journal
+levenshtein:0.0 synonym_distance:0.19047619047619047 Jaro_winkler:0.0 res_similarity:0.0811810763010291
+labels1:date labels2:edition
+levenshtein:0.2857142857142857 synonym_distance:0.18181818181818188 Jaro_winkler:0.5952380952380952 res_similarity:0.400781869450027
+labels1:date labels2:issn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.0768551815391331
+labels1:date labels2:date
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:date labels2:annote
+levenshtein:0.33333333333333337 synonym_distance:0.4 Jaro_winkler:0.75 res_similarity:0.48621036370576765
+labels1:date labels2:isbn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.07776469362260563
+labels1:date labels2:title
+levenshtein:0.4 synonym_distance:0.2222222222222222 Jaro_winkler:0.6333333333333333 res_similarity:0.4133617304956003
+labels1:date labels2:note
+levenshtein:0.5 synonym_distance:0.5 Jaro_winkler:0.6666666666666666 res_similarity:0.5564812424412656
+labels1:date labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.23529411764705888 Jaro_winkler:0.5512820512820512 res_similarity:0.32705885272069024
+labels1:date labels2:chapter
+levenshtein:0.4285714285714286 synonym_distance:0.36363636363636365 Jaro_winkler:0.7261904761904763 res_similarity:0.5151741826098133
+labels1:date labels2:editor
+levenshtein:0.33333333333333337 synonym_distance:0.33333333333333326 Jaro_winkler:0.611111111111111 res_similarity:0.42155857696138876
+labels1:date labels2:published
+levenshtein:0.11111111111111116 synonym_distance:0.16000000000000003 Jaro_winkler:0.0 res_similarity:0.10175432674487672
+labels1:date labels2:author
+levenshtein:0.16666666666666663 synonym_distance:0.33333333333333326 Jaro_winkler:0.611111111111111 res_similarity:0.3902305068445674
+labels1:date labels2:lccn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08432409838812235
+labels1:date labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.2142857142857143 Jaro_winkler:0.0 res_similarity:0.11514635642772755
+labels1:date labels2:series
+levenshtein:0.16666666666666663 synonym_distance:0.33333333333333326 Jaro_winkler:0.4722222222222221 res_similarity:0.331528415959211
+labels1:human creator labels2:type
+levenshtein:0.07692307692307687 synonym_distance:0.11764705882352944 Jaro_winkler:0.4423076923076923 res_similarity:0.22813470477715472
+labels1:human creator labels2:keywords
+levenshtein:0.07692307692307687 synonym_distance:0.19047619047619047 Jaro_winkler:0.40064102564102555 res_similarity:0.23266570063416564
+labels1:human creator labels2:location
+levenshtein:0.23076923076923073 synonym_distance:0.19047619047619047 Jaro_winkler:0.4358974358974359 res_similarity:0.2930351191288637
+labels1:human creator labels2:copyright
+levenshtein:0.07692307692307687 synonym_distance:0.09090909090909094 Jaro_winkler:0.45868945868945876 res_similarity:0.23374773172529098
+labels1:human creator labels2:institution
+levenshtein:0.15384615384615385 synonym_distance:0.08333333333333337 Jaro_winkler:0.47377622377622375 res_similarity:0.2624847433742804
+labels1:human creator labels2:mr number
+levenshtein:0.23076923076923073 synonym_distance:0.18181818181818188 Jaro_winkler:0.5982905982905983 res_similarity:0.3610325880891956
+labels1:human creator labels2:is part of
+levenshtein:0.15384615384615385 synonym_distance:0.08695652173913038 Jaro_winkler:0.5615384615384615 res_similarity:0.294392155836831
+labels1:human creator labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.14814814814814814 Jaro_winkler:0.5189255189255189 res_similarity:0.2796235441442795
+labels1:human creator labels2:school
+levenshtein:0.15384615384615385 synonym_distance:0.10526315789473684 Jaro_winkler:0.329059829059829 res_similarity:0.20237325673340673
+labels1:human creator labels2:directors
+levenshtein:0.3076923076923077 synonym_distance:0.2727272727272727 Jaro_winkler:0.6538461538461539 res_similarity:0.40922887737736297
+labels1:human creator labels2:url
+levenshtein:0.15384615384615385 synonym_distance:0.125 Jaro_winkler:0.47008547008546997 res_similarity:0.2691594346337451
+labels1:human creator labels2:affiliation
+levenshtein:0.23076923076923073 synonym_distance:0.16666666666666663 Jaro_winkler:0.5571095571095571 res_similarity:0.34006064619316234
+labels1:human creator labels2:in collection
+levenshtein:0.23076923076923073 synonym_distance:0.23076923076923084 Jaro_winkler:0.6410256410256411 res_similarity:0.35675746276506193
+labels1:human creator labels2:abstract
+levenshtein:0.23076923076923073 synonym_distance:0.09523809523809523 Jaro_winkler:0.6032051282051282 res_similarity:0.34260348572914506
+labels1:human creator labels2:size
+levenshtein:0.07692307692307687 synonym_distance:0.11764705882352944 Jaro_winkler:0.4423076923076923 res_similarity:0.22855698824152532
+labels1:human creator labels2:ontents
+levenshtein:0.23076923076923073 synonym_distance:0.09999999999999998 Jaro_winkler:0.553113553113553 res_similarity:0.32223923269454097
+labels1:human creator labels2:organization
+levenshtein:0.3076923076923077 synonym_distance:0.16000000000000003 Jaro_winkler:0.6004273504273504 res_similarity:0.36728095153190854
+labels1:human creator labels2:page and/or chapter data
+levenshtein:0.25 synonym_distance:0.10810810810810811 Jaro_winkler:0.6286324786324786 res_similarity:0.3576089066232936
+labels1:human creator labels2:publisher
+levenshtein:0.23076923076923073 synonym_distance:0.09090909090909094 Jaro_winkler:0.41025641025641035 res_similarity:0.25891597175860004
+labels1:human creator labels2:pages
+levenshtein:0.15384615384615385 synonym_distance:0.11111111111111116 Jaro_winkler:0.517948717948718 res_similarity:0.26498019262072414
+labels1:human creator labels2:language
+levenshtein:0.23076923076923073 synonym_distance:0.19047619047619047 Jaro_winkler:0.5365384615384615 res_similarity:0.31994839808374786
+labels1:human creator labels2:price
+levenshtein:0.15384615384615385 synonym_distance:0.11111111111111116 Jaro_winkler:0.517948717948718 res_similarity:0.2664235797611788
+labels1:human creator labels2:in journal
+levenshtein:0.15384615384615385 synonym_distance:0.17391304347826086 Jaro_winkler:0.4948717948717949 res_similarity:0.298854510878874
+labels1:human creator labels2:edition
+levenshtein:0.07692307692307687 synonym_distance:0.09999999999999998 Jaro_winkler:0.4065934065934067 res_similarity:0.21359186505472266
+labels1:human creator labels2:issn
+levenshtein:0.07692307692307687 synonym_distance:0.11764705882352944 Jaro_winkler:0.4423076923076923 res_similarity:0.2242597406912226
+labels1:human creator labels2:date
+levenshtein:0.15384615384615385 synonym_distance:0.23529411764705888 Jaro_winkler:0.5512820512820512 res_similarity:0.3104144562343323
+labels1:human creator labels2:annote
+levenshtein:0.23076923076923073 synonym_distance:0.21052631578947367 Jaro_winkler:0.576923076923077 res_similarity:0.34990321233977006
+labels1:human creator labels2:isbn
+levenshtein:0.07692307692307687 synonym_distance:0.11764705882352944 Jaro_winkler:0.4423076923076923 res_similarity:0.20241375371194742
+labels1:human creator labels2:title
+levenshtein:0.07692307692307687 synonym_distance:0.11111111111111116 Jaro_winkler:0.4256410256410257 res_similarity:0.2107908253894749
+labels1:human creator labels2:note
+levenshtein:0.15384615384615385 synonym_distance:0.11764705882352944 Jaro_winkler:0.5512820512820512 res_similarity:0.29542518445279453
+labels1:human creator labels2:human creator
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:human creator labels2:chapter
+levenshtein:0.23076923076923073 synonym_distance:0.09999999999999998 Jaro_winkler:0.543040293040293 res_similarity:0.30771859579899574
+labels1:human creator labels2:editor
+levenshtein:0.23076923076923073 synonym_distance:0.3157894736842105 Jaro_winkler:0.4145299145299146 res_similarity:0.3254086185715591
+labels1:human creator labels2:published
+levenshtein:0.15384615384615385 synonym_distance:0.09090909090909094 Jaro_winkler:0.45868945868945876 res_similarity:0.24473155816189002
+labels1:human creator labels2:author
+levenshtein:0.23076923076923073 synonym_distance:0.21052631578947367 Jaro_winkler:0.5747863247863249 res_similarity:0.31617019841583016
+labels1:human creator labels2:lccn
+levenshtein:0.07692307692307687 synonym_distance:0.11764705882352944 Jaro_winkler:0.3846153846153846 res_similarity:0.20789807645364705
+labels1:human creator labels2:inmonography
+levenshtein:0.3076923076923077 synonym_distance:0.07999999999999996 Jaro_winkler:0.3803418803418803 res_similarity:0.2748083836543399
+labels1:human creator labels2:series
+levenshtein:0.07692307692307687 synonym_distance:0.10526315789473684 Jaro_winkler:0.49572649572649574 res_similarity:0.25474920649228344
+labels1:event labels2:type
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.281891933636766
+labels1:event labels2:keywords
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.44166666666666665 res_similarity:0.2723240419097738
+labels1:event labels2:location
+levenshtein:0.125 synonym_distance:0.33333333333333326 Jaro_winkler:0.44166666666666665 res_similarity:0.31256063058207273
+labels1:event labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.14071023171027258
+labels1:event labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.2222222222222222 Jaro_winkler:0.5272727272727272 res_similarity:0.3106148991090154
+labels1:event labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.4370370370370371 res_similarity:0.24415475754634558
+labels1:event labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.2666666666666666 Jaro_winkler:0.43333333333333335 res_similarity:0.27662310314310357
+labels1:event labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.16000000000000003 Jaro_winkler:0.3476190476190477 res_similarity:0.23099481377320233
+labels1:event labels2:school
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.14463110593521866
+labels1:event labels2:directors
+levenshtein:0.2222222222222222 synonym_distance:0.4 Jaro_winkler:0.5407407407407407 res_similarity:0.379396484560107
+labels1:event labels2:url
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.09444210472113723
+labels1:event labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.23529411764705888 Jaro_winkler:0.4303030303030304 res_similarity:0.2578222648210378
+labels1:event labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.3157894736842105 Jaro_winkler:0.49914529914529915 res_similarity:0.34133378429271
+labels1:event labels2:abstract
+levenshtein:0.125 synonym_distance:0.2857142857142857 Jaro_winkler:0.44166666666666665 res_similarity:0.3091872727054181
+labels1:event labels2:size
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.25715208396215977
+labels1:event labels2:ontents
+levenshtein:0.4285714285714286 synonym_distance:0.5 Jaro_winkler:0.565079365079365 res_similarity:0.5051177744793355
+labels1:event labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.17391304347826086 Jaro_winkler:0.5222222222222223 res_similarity:0.29051368568051816
+labels1:event labels2:page and/or chapter data
+levenshtein:0.125 synonym_distance:0.0714285714285714 Jaro_winkler:0.49444444444444446 res_similarity:0.25243068140591596
+labels1:event labels2:publisher
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.14523184136562628
+labels1:event labels2:pages
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.46666666666666656 res_similarity:0.3033609447148423
+labels1:event labels2:language
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.44166666666666665 res_similarity:0.22220825563291666
+labels1:event labels2:price
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.09841117050096601
+labels1:event labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.23529411764705888 Jaro_winkler:0.43333333333333335 res_similarity:0.2568672867226947
+labels1:event labels2:edition
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.5619047619047619 res_similarity:0.316529457686083
+labels1:event labels2:issn
+levenshtein:0.19999999999999996 synonym_distance:0.6666666666666666 Jaro_winkler:0.4833333333333334 res_similarity:0.475339225685413
+labels1:event labels2:date
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.28301544659537625
+labels1:event labels2:annote
+levenshtein:0.16666666666666663 synonym_distance:0.33333333333333326 Jaro_winkler:0.5777777777777778 res_similarity:0.38162424787458227
+labels1:event labels2:isbn
+levenshtein:0.19999999999999996 synonym_distance:0.4444444444444444 Jaro_winkler:0.4833333333333334 res_similarity:0.3752965486798284
+labels1:event labels2:title
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09665102528062584
+labels1:event labels2:note
+levenshtein:0.0 synonym_distance:0.4 Jaro_winkler:0.4833333333333334 res_similarity:0.32964318312545204
+labels1:event labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.21052631578947367 Jaro_winkler:0.4256410256410257 res_similarity:0.2635866484239061
+labels1:event labels2:chapter
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.4476190476190476 res_similarity:0.26337974597585556
+labels1:event labels2:editor
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.5777777777777778 res_similarity:0.3512398973792916
+labels1:event labels2:published
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.1250279558654988
+labels1:event labels2:author
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.4555555555555555 res_similarity:0.2807323660401353
+labels1:event labels2:lccn
+levenshtein:0.19999999999999996 synonym_distance:0.25 Jaro_winkler:0.4833333333333334 res_similarity:0.3061365256123427
+labels1:event labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.17391304347826086 Jaro_winkler:0.4277777777777778 res_similarity:0.2367546449254016
+labels1:event labels2:series
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.5777777777777778 res_similarity:0.3902050624185627
+labels1:publisher labels2:type
+levenshtein:0.11111111111111116 synonym_distance:0.17391304347826086 Jaro_winkler:0.4537037037037037 res_similarity:0.2655915239641038
+labels1:publisher labels2:keywords
+levenshtein:0.0 synonym_distance:0.11764705882352944 Jaro_winkler:0.32407407407407407 res_similarity:0.15668679189821932
+labels1:publisher labels2:location
+levenshtein:0.0 synonym_distance:0.11764705882352944 Jaro_winkler:0.4907407407407407 res_similarity:0.24795050749566097
+labels1:publisher labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.14814814814814814 Jaro_winkler:0.5555555555555555 res_similarity:0.29960640551389456
+labels1:publisher labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.15384615384615385 Jaro_winkler:0.468013468013468 res_similarity:0.2589117809944587
+labels1:publisher labels2:mr number
+levenshtein:0.2222222222222222 synonym_distance:0.2222222222222222 Jaro_winkler:0.5555555555555555 res_similarity:0.34561213848649963
+labels1:publisher labels2:is part of
+levenshtein:0.0 synonym_distance:0.21052631578947367 Jaro_winkler:0.5314814814814816 res_similarity:0.27564735624776315
+labels1:publisher labels2:in proceedings
+levenshtein:0.0714285714285714 synonym_distance:0.2068965517241379 Jaro_winkler:0.41005291005291 res_similarity:0.2528506209129571
+labels1:publisher labels2:school
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.4259259259259258 res_similarity:0.22562322109944274
+labels1:publisher labels2:directors
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.4444444444444444 res_similarity:0.2538426826356087
+labels1:publisher labels2:url
+levenshtein:0.2222222222222222 synonym_distance:0.16666666666666663 Jaro_winkler:0.6296296296296297 res_similarity:0.3505357087683596
+labels1:publisher labels2:affiliation
+levenshtein:0.18181818181818177 synonym_distance:0.19999999999999996 Jaro_winkler:0.30134680134680125 res_similarity:0.2227397598593796
+labels1:publisher labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.1428571428571428 Jaro_winkler:0.41025641025641035 res_similarity:0.22556611099979434
+labels1:publisher labels2:abstract
+levenshtein:0.11111111111111116 synonym_distance:0.11764705882352944 Jaro_winkler:0.4907407407407407 res_similarity:0.2602844293771483
+labels1:publisher labels2:size
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.4537037037037037 res_similarity:0.28263434838235363
+labels1:publisher labels2:ontents
+levenshtein:0.0 synonym_distance:0.125 Jaro_winkler:0.4179894179894179 res_similarity:0.20009758704313924
+labels1:publisher labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.1333333333333333 Jaro_winkler:0.39814814814814814 res_similarity:0.2186474439971161
+labels1:publisher labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.12121212121212122 Jaro_winkler:0.4537037037037037 res_similarity:0.25674061758891553
+labels1:publisher labels2:publisher
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:publisher labels2:pages
+levenshtein:0.2222222222222222 synonym_distance:0.17391304347826086 Jaro_winkler:0.5407407407407407 res_similarity:0.31015582843430944
+labels1:publisher labels2:language
+levenshtein:0.11111111111111116 synonym_distance:0.17391304347826086 Jaro_winkler:0.45833333333333326 res_similarity:0.28688823623183823
+labels1:publisher labels2:price
+levenshtein:0.33333333333333337 synonym_distance:0.1428571428571428 Jaro_winkler:0.6444444444444445 res_similarity:0.4039343452964018
+labels1:publisher labels2:in journal
+levenshtein:0.0 synonym_distance:0.16000000000000003 Jaro_winkler:0.43333333333333335 res_similarity:0.2197915082696663
+labels1:publisher labels2:edition
+levenshtein:0.11111111111111116 synonym_distance:0.125 Jaro_winkler:0.4179894179894179 res_similarity:0.22227835248062905
+labels1:publisher labels2:issn
+levenshtein:0.2222222222222222 synonym_distance:0.3076923076923077 Jaro_winkler:0.4537037037037037 res_similarity:0.30388217413461555
+labels1:publisher labels2:date
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.0 res_similarity:0.09405395802793155
+labels1:publisher labels2:annote
+levenshtein:0.11111111111111116 synonym_distance:0.16666666666666663 Jaro_winkler:0.4259259259259258 res_similarity:0.23981640200863208
+labels1:publisher labels2:isbn
+levenshtein:0.2222222222222222 synonym_distance:0.3076923076923077 Jaro_winkler:0.4537037037037037 res_similarity:0.3419179653237213
+labels1:publisher labels2:title
+levenshtein:0.2222222222222222 synonym_distance:0.1428571428571428 Jaro_winkler:0.5333333333333333 res_similarity:0.3123030959953683
+labels1:publisher labels2:note
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.0 res_similarity:0.09098467923251127
+labels1:publisher labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.12903225806451613 Jaro_winkler:0.41025641025641035 res_similarity:0.26417615922414145
+labels1:publisher labels2:chapter
+levenshtein:0.2222222222222222 synonym_distance:0.25 Jaro_winkler:0.5873015873015873 res_similarity:0.34983536446742625
+labels1:publisher labels2:editor
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.5185185185185185 res_similarity:0.2862060606620406
+labels1:publisher labels2:published
+levenshtein:0.8888888888888888 synonym_distance:0.8888888888888888 Jaro_winkler:0.9851851851851852 res_similarity:0.9215132356341942
+labels1:publisher labels2:author
+levenshtein:0.33333333333333337 synonym_distance:0.18181818181818188 Jaro_winkler:0.611111111111111 res_similarity:0.3873983674944762
+labels1:publisher labels2:lccn
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.4537037037037037 res_similarity:0.2678726720682854
+labels1:publisher labels2:inmonography
+levenshtein:0.0 synonym_distance:0.14814814814814814 Jaro_winkler:0.41666666666666674 res_similarity:0.219032235493891
+labels1:publisher labels2:series
+levenshtein:0.2222222222222222 synonym_distance:0.2666666666666666 Jaro_winkler:0.5 res_similarity:0.3422926088057351
+labels1:organizer labels2:type
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.0 res_similarity:0.1061324225674461
+labels1:organizer labels2:keywords
+levenshtein:0.0 synonym_distance:0.23529411764705888 Jaro_winkler:0.412037037037037 res_similarity:0.23807327784180204
+labels1:organizer labels2:location
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.5648148148148148 res_similarity:0.340323179168939
+labels1:organizer labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.11764705882352944 Jaro_winkler:0.5555555555555555 res_similarity:0.28559534605528014
+labels1:organizer labels2:institution
+levenshtein:0.0 synonym_distance:0.13793103448275867 Jaro_winkler:0.468013468013468 res_similarity:0.22604651127547065
+labels1:organizer labels2:mr number
+levenshtein:0.33333333333333337 synonym_distance:0.23529411764705888 Jaro_winkler:0.6296296296296297 res_similarity:0.4157457638559109
+labels1:organizer labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.2222222222222222 Jaro_winkler:0.30740740740740735 res_similarity:0.21489523626147966
+labels1:organizer labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.18181818181818188 Jaro_winkler:0.5042328042328043 res_similarity:0.305231269523777
+labels1:organizer labels2:school
+levenshtein:0.0 synonym_distance:0.1333333333333333 Jaro_winkler:0.4259259259259258 res_similarity:0.22159905292192786
+labels1:organizer labels2:directors
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.4814814814814814 res_similarity:0.2556908556243332
+labels1:organizer labels2:url
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.4814814814814814 res_similarity:0.26999807202756193
+labels1:organizer labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.13793103448275867 Jaro_winkler:0.468013468013468 res_similarity:0.24559936194947102
+labels1:organizer labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.12903225806451613 Jaro_winkler:0.5007122507122507 res_similarity:0.27141469101440713
+labels1:organizer labels2:abstract
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.32407407407407407 res_similarity:0.20766690635704244
+labels1:organizer labels2:size
+levenshtein:0.33333333333333337 synonym_distance:0.46153846153846156 Jaro_winkler:0.0 res_similarity:0.2984935684536504
+labels1:organizer labels2:ontents
+levenshtein:0.2222222222222222 synonym_distance:0.16000000000000003 Jaro_winkler:0.5026455026455027 res_similarity:0.3038257339771161
+labels1:organizer labels2:organization
+levenshtein:0.5833333333333333 synonym_distance:0.6666666666666666 Jaro_winkler:0.9112654320987654 res_similarity:0.7188257786671208
+labels1:organizer labels2:page and/or chapter data
+levenshtein:0.20833333333333337 synonym_distance:0.125 Jaro_winkler:0.546957671957672 res_similarity:0.3209758393487714
+labels1:organizer labels2:publisher
+levenshtein:0.2222222222222222 synonym_distance:0.23529411764705888 Jaro_winkler:0.5555555555555555 res_similarity:0.35695475938011445
+labels1:organizer labels2:pages
+levenshtein:0.2222222222222222 synonym_distance:0.3076923076923077 Jaro_winkler:0.374074074074074 res_similarity:0.30536929700161186
+labels1:organizer labels2:language
+levenshtein:0.11111111111111116 synonym_distance:0.375 Jaro_winkler:0.5648148148148148 res_similarity:0.37465242830562084
+labels1:organizer labels2:price
+levenshtein:0.33333333333333337 synonym_distance:0.15384615384615385 Jaro_winkler:0.6444444444444445 res_similarity:0.39561505846075623
+labels1:organizer labels2:in journal
+levenshtein:0.0 synonym_distance:0.2142857142857143 Jaro_winkler:0.43333333333333335 res_similarity:0.2509227721674328
+labels1:organizer labels2:edition
+levenshtein:0.11111111111111116 synonym_distance:0.16000000000000003 Jaro_winkler:0.33597883597883604 res_similarity:0.2059860762327626
+labels1:organizer labels2:issn
+levenshtein:0.11111111111111116 synonym_distance:0.3076923076923077 Jaro_winkler:0.4537037037037037 res_similarity:0.28947741240551483
+labels1:organizer labels2:date
+levenshtein:0.2222222222222222 synonym_distance:0.16666666666666663 Jaro_winkler:0.4537037037037037 res_similarity:0.2769322465595817
+labels1:organizer labels2:annote
+levenshtein:0.2222222222222222 synonym_distance:0.2857142857142857 Jaro_winkler:0.6203703703703703 res_similarity:0.3748517621445052
+labels1:organizer labels2:isbn
+levenshtein:0.11111111111111116 synonym_distance:0.3076923076923077 Jaro_winkler:0.4537037037037037 res_similarity:0.3175694120834193
+labels1:organizer labels2:title
+levenshtein:0.11111111111111116 synonym_distance:0.15384615384615385 Jaro_winkler:0.4370370370370371 res_similarity:0.2605508103395109
+labels1:organizer labels2:note
+levenshtein:0.2222222222222222 synonym_distance:0.16666666666666663 Jaro_winkler:0.4537037037037037 res_similarity:0.2789177197847458
+labels1:organizer labels2:human creator
+levenshtein:0.3076923076923077 synonym_distance:0.19047619047619047 Jaro_winkler:0.5007122507122507 res_similarity:0.3386563799579007
+labels1:organizer labels2:chapter
+levenshtein:0.33333333333333337 synonym_distance:0.2666666666666666 Jaro_winkler:0.5873015873015873 res_similarity:0.39464274632557733
+labels1:organizer labels2:editor
+levenshtein:0.2222222222222222 synonym_distance:0.2666666666666666 Jaro_winkler:0.5185185185185185 res_similarity:0.34970102228373406
+labels1:organizer labels2:published
+levenshtein:0.11111111111111116 synonym_distance:0.2222222222222222 Jaro_winkler:0.4814814814814814 res_similarity:0.2792847929143626
+labels1:organizer labels2:author
+levenshtein:0.2222222222222222 synonym_distance:0.2666666666666666 Jaro_winkler:0.5185185185185185 res_similarity:0.33857539268143433
+labels1:organizer labels2:lccn
+levenshtein:0.11111111111111116 synonym_distance:0.16666666666666663 Jaro_winkler:0.4537037037037037 res_similarity:0.2463130407890602
+labels1:organizer labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.19999999999999996 Jaro_winkler:0.5555555555555555 res_similarity:0.3000119264010772
+labels1:organizer labels2:series
+levenshtein:0.2222222222222222 synonym_distance:0.4 Jaro_winkler:0.611111111111111 res_similarity:0.4134867986980817
+labels1:is part of labels2:type
+levenshtein:0.09999999999999998 synonym_distance:0.1428571428571428 Jaro_winkler:0.44999999999999996 res_similarity:0.26372253306986276
+labels1:is part of labels2:keywords
+levenshtein:0.09999999999999998 synonym_distance:0.11111111111111116 Jaro_winkler:0.31666666666666665 res_similarity:0.18154728058410996
+labels1:is part of labels2:location
+levenshtein:0.30000000000000004 synonym_distance:0.11111111111111116 Jaro_winkler:0.5583333333333333 res_similarity:0.341719611378221
+labels1:is part of labels2:copyright
+levenshtein:0.19999999999999996 synonym_distance:0.10526315789473684 Jaro_winkler:0.5444444444444444 res_similarity:0.30270778905364104
+labels1:is part of labels2:institution
+levenshtein:0.36363636363636365 synonym_distance:0.09523809523809523 Jaro_winkler:0.5878787878787879 res_similarity:0.3613316528859636
+labels1:is part of labels2:mr number
+levenshtein:0.09999999999999998 synonym_distance:0.10526315789473684 Jaro_winkler:0.30740740740740735 res_similarity:0.18113104921721968
+labels1:is part of labels2:is part of
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:is part of labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.16666666666666663 Jaro_winkler:0.6190476190476191 res_similarity:0.3486383322912716
+labels1:is part of labels2:school
+levenshtein:0.19999999999999996 synonym_distance:0.125 Jaro_winkler:0.5111111111111111 res_similarity:0.29249754199426314
+labels1:is part of labels2:directors
+levenshtein:0.09999999999999998 synonym_distance:0.10526315789473684 Jaro_winkler:0.6148148148148148 res_similarity:0.28497991942742484
+labels1:is part of labels2:url
+levenshtein:0.09999999999999998 synonym_distance:0.15384615384615385 Jaro_winkler:0.47777777777777786 res_similarity:0.26860645119139237
+labels1:is part of labels2:affiliation
+levenshtein:0.18181818181818177 synonym_distance:0.09523809523809523 Jaro_winkler:0.5045454545454545 res_similarity:0.28634888148170584
+labels1:is part of labels2:in collection
+levenshtein:0.3076923076923077 synonym_distance:0.08695652173913038 Jaro_winkler:0.48589743589743595 res_similarity:0.28912613639467993
+labels1:is part of labels2:abstract
+levenshtein:0.19999999999999996 synonym_distance:0.11111111111111116 Jaro_winkler:0.46666666666666656 res_similarity:0.27503237954976434
+labels1:is part of labels2:size
+levenshtein:0.09999999999999998 synonym_distance:0.1428571428571428 Jaro_winkler:0.3999999999999999 res_similarity:0.23868525634795573
+labels1:is part of labels2:ontents
+levenshtein:0.09999999999999998 synonym_distance:0.11764705882352944 Jaro_winkler:0.41428571428571437 res_similarity:0.24955060961051467
+labels1:is part of labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.09090909090909094 Jaro_winkler:0.5722222222222223 res_similarity:0.2965257053374296
+labels1:is part of labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.11764705882352944 Jaro_winkler:0.5210317460317461 res_similarity:0.2734137473078739
+labels1:is part of labels2:publisher
+levenshtein:0.0 synonym_distance:0.21052631578947367 Jaro_winkler:0.5314814814814816 res_similarity:0.28900982796196006
+labels1:is part of labels2:pages
+levenshtein:0.19999999999999996 synonym_distance:0.2666666666666666 Jaro_winkler:0.5222222222222221 res_similarity:0.3343185074689582
+labels1:is part of labels2:language
+levenshtein:0.0 synonym_distance:0.11111111111111116 Jaro_winkler:0.40833333333333344 res_similarity:0.20129399371893322
+labels1:is part of labels2:price
+levenshtein:0.19999999999999996 synonym_distance:0.1333333333333333 Jaro_winkler:0.5222222222222221 res_similarity:0.28605330996478495
+labels1:is part of labels2:in journal
+levenshtein:0.19999999999999996 synonym_distance:0.09999999999999998 Jaro_winkler:0.6 res_similarity:0.34986218982004735
+labels1:is part of labels2:edition
+levenshtein:0.19999999999999996 synonym_distance:0.11764705882352944 Jaro_winkler:0.5761904761904763 res_similarity:0.3172599626692214
+labels1:is part of labels2:issn
+levenshtein:0.19999999999999996 synonym_distance:0.2857142857142857 Jaro_winkler:0.5666666666666667 res_similarity:0.3367963219909909
+labels1:is part of labels2:date
+levenshtein:0.19999999999999996 synonym_distance:0.1428571428571428 Jaro_winkler:0.5666666666666667 res_similarity:0.3095408382057361
+labels1:is part of labels2:annote
+levenshtein:0.09999999999999998 synonym_distance:0.125 Jaro_winkler:0.5111111111111111 res_similarity:0.2535940588450724
+labels1:is part of labels2:isbn
+levenshtein:0.19999999999999996 synonym_distance:0.2857142857142857 Jaro_winkler:0.5666666666666667 res_similarity:0.35128368970196705
+labels1:is part of labels2:title
+levenshtein:0.09999999999999998 synonym_distance:0.1333333333333333 Jaro_winkler:0.5333333333333333 res_similarity:0.265911780011019
+labels1:is part of labels2:note
+levenshtein:0.09999999999999998 synonym_distance:0.1428571428571428 Jaro_winkler:0.44999999999999996 res_similarity:0.23764015128596389
+labels1:is part of labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.08695652173913038 Jaro_winkler:0.5615384615384615 res_similarity:0.28310463678213604
+labels1:is part of labels2:chapter
+levenshtein:0.19999999999999996 synonym_distance:0.11764705882352944 Jaro_winkler:0.4904761904761905 res_similarity:0.30019209182468465
+labels1:is part of labels2:editor
+levenshtein:0.19999999999999996 synonym_distance:0.125 Jaro_winkler:0.6055555555555555 res_similarity:0.33090528817409426
+labels1:is part of labels2:published
+levenshtein:0.0 synonym_distance:0.21052631578947367 Jaro_winkler:0.43333333333333335 res_similarity:0.23112723806172952
+labels1:is part of labels2:author
+levenshtein:0.30000000000000004 synonym_distance:0.125 Jaro_winkler:0.6055555555555555 res_similarity:0.3388799526862496
+labels1:is part of labels2:lccn
+levenshtein:0.0 synonym_distance:0.0 Jaro_winkler:0.0 res_similarity:0.0
+labels1:is part of labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.09090909090909094 Jaro_winkler:0.49444444444444446 res_similarity:0.25407059124820247
+labels1:is part of labels2:series
+levenshtein:0.19999999999999996 synonym_distance:0.125 Jaro_winkler:0.48888888888888893 res_similarity:0.2978671301561075
+labels1:location labels2:type
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.0 res_similarity:0.09936940406898287
+labels1:location labels2:keywords
+levenshtein:0.0 synonym_distance:0.125 Jaro_winkler:0.41666666666666674 res_similarity:0.19883723587919158
+labels1:location labels2:location
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:location labels2:copyright
+levenshtein:0.2222222222222222 synonym_distance:0.16666666666666663 Jaro_winkler:0.45833333333333326 res_similarity:0.2740434507537124
+labels1:location labels2:institution
+levenshtein:0.36363636363636365 synonym_distance:0.42105263157894735 Jaro_winkler:0.6212121212121212 res_similarity:0.46458552134482545
+labels1:location labels2:mr number
+levenshtein:0.0 synonym_distance:0.11764705882352944 Jaro_winkler:0.0 res_similarity:0.05291885088136545
+labels1:location labels2:is part of
+levenshtein:0.30000000000000004 synonym_distance:0.18181818181818188 Jaro_winkler:0.5583333333333333 res_similarity:0.3717939443540065
+labels1:location labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.2727272727272727 Jaro_winkler:0.4285714285714286 res_similarity:0.31359177599578425
+labels1:location labels2:school
+levenshtein:0.25 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.30924302794919184
+labels1:location labels2:directors
+levenshtein:0.11111111111111116 synonym_distance:0.16666666666666663 Jaro_winkler:0.5694444444444444 res_similarity:0.33408338366619283
+labels1:location labels2:url
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.48611111111111116 res_similarity:0.2532299340611938
+labels1:location labels2:affiliation
+levenshtein:0.4545454545454546 synonym_distance:0.5263157894736842 Jaro_winkler:0.654040404040404 res_similarity:0.5435902309420437
+labels1:location labels2:in collection
+levenshtein:0.3846153846153846 synonym_distance:0.38095238095238093 Jaro_winkler:0.7092490842490843 res_similarity:0.4861405893838421
+labels1:location labels2:abstract
+levenshtein:0.0 synonym_distance:0.23529411764705888 Jaro_winkler:0.5 res_similarity:0.2807946715566283
+labels1:location labels2:size
+levenshtein:0.125 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.15688038910241844
+labels1:location labels2:ontents
+levenshtein:0.125 synonym_distance:0.375 Jaro_winkler:0.6011904761904762 res_similarity:0.3703411184886344
+labels1:location labels2:organization
+levenshtein:0.41666666666666663 synonym_distance:0.5833333333333334 Jaro_winkler:0.6944444444444445 res_similarity:0.5907197586781903
+labels1:location labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.125 Jaro_winkler:0.38888888888888884 res_similarity:0.22367757255161336
+labels1:location labels2:publisher
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.4907407407407407 res_similarity:0.2612435867032498
+labels1:location labels2:pages
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.44166666666666665 res_similarity:0.25187126427614187
+labels1:location labels2:language
+levenshtein:0.125 synonym_distance:0.25 Jaro_winkler:0.5 res_similarity:0.3176284334259299
+labels1:location labels2:price
+levenshtein:0.125 synonym_distance:0.2857142857142857 Jaro_winkler:0.3833333333333333 res_similarity:0.2701072026858852
+labels1:location labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.2222222222222222 Jaro_winkler:0.4833333333333334 res_similarity:0.3016147270735565
+labels1:location labels2:edition
+levenshtein:0.5 synonym_distance:0.6666666666666666 Jaro_winkler:0.6071428571428571 res_similarity:0.5931013824884098
+labels1:location labels2:issn
+levenshtein:0.125 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.14057263384681007
+labels1:location labels2:date
+levenshtein:0.25 synonym_distance:0.33333333333333326 Jaro_winkler:0.5833333333333334 res_similarity:0.39968444991475577
+labels1:location labels2:annote
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.2779079405280824
+labels1:location labels2:isbn
+levenshtein:0.125 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.15318473565040552
+labels1:location labels2:title
+levenshtein:0.125 synonym_distance:0.3076923076923077 Jaro_winkler:0.3833333333333333 res_similarity:0.2872241909019375
+labels1:location labels2:note
+levenshtein:0.25 synonym_distance:0.16666666666666663 Jaro_winkler:0.5833333333333334 res_similarity:0.33304088159541845
+labels1:location labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.19047619047619047 Jaro_winkler:0.4358974358974359 res_similarity:0.2801944306070402
+labels1:location labels2:chapter
+levenshtein:0.125 synonym_distance:0.1333333333333333 Jaro_winkler:0.6011904761904762 res_similarity:0.3037913318185431
+labels1:location labels2:editor
+levenshtein:0.25 synonym_distance:0.2857142857142857 Jaro_winkler:0.5138888888888888 res_similarity:0.3600243681281037
+labels1:location labels2:published
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.4907407407407407 res_similarity:0.28667014216818726
+labels1:location labels2:author
+levenshtein:0.25 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.31096045088029967
+labels1:location labels2:lccn
+levenshtein:0.375 synonym_distance:0.16666666666666663 Jaro_winkler:0.5833333333333334 res_similarity:0.3726854577785155
+labels1:location labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.19999999999999996 Jaro_winkler:0.5472222222222222 res_similarity:0.30853756456033166
+labels1:location labels2:series
+levenshtein:0.125 synonym_distance:0.2222222222222222 Jaro_winkler:0.4305555555555556 res_similarity:0.2533664303384074
+labels1:school labels2:type
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.0 res_similarity:0.056596307135200585
+labels1:school labels2:keywords
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.4305555555555556 res_similarity:0.2354201914978176
+labels1:school labels2:location
+levenshtein:0.25 synonym_distance:0.2222222222222222 Jaro_winkler:0.5138888888888888 res_similarity:0.3387324137459191
+labels1:school labels2:copyright
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.5185185185185185 res_similarity:0.23563137240508805
+labels1:school labels2:institution
+levenshtein:0.18181818181818177 synonym_distance:0.19999999999999996 Jaro_winkler:0.4191919191919191 res_similarity:0.26809458505849704
+labels1:school labels2:mr number
+levenshtein:0.0 synonym_distance:0.11111111111111116 Jaro_winkler:0.0 res_similarity:0.04762287777304263
+labels1:school labels2:is part of
+levenshtein:0.19999999999999996 synonym_distance:0.1333333333333333 Jaro_winkler:0.5111111111111111 res_similarity:0.33471165232155214
+labels1:school labels2:in proceedings
+levenshtein:0.0714285714285714 synonym_distance:0.26086956521739135 Jaro_winkler:0.32539682539682535 res_similarity:0.23503288410436995
+labels1:school labels2:school
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:school labels2:directors
+levenshtein:0.2222222222222222 synonym_distance:0.1428571428571428 Jaro_winkler:0.5185185185185185 res_similarity:0.3032534872684568
+labels1:school labels2:url
+levenshtein:0.16666666666666663 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.15700489527431635
+labels1:school labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.19999999999999996 Jaro_winkler:0.4191919191919191 res_similarity:0.26506211419183445
+labels1:school labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.21052631578947367 Jaro_winkler:0.576923076923077 res_similarity:0.32290151723422245
+labels1:school labels2:abstract
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.4305555555555556 res_similarity:0.24934391409569656
+labels1:school labels2:size
+levenshtein:0.16666666666666663 synonym_distance:0.2222222222222222 Jaro_winkler:0.4722222222222221 res_similarity:0.2937408204798458
+labels1:school labels2:ontents
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.0 res_similarity:0.06686484919235175
+labels1:school labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.18181818181818188 Jaro_winkler:0.41666666666666674 res_similarity:0.24786985552831137
+labels1:school labels2:page and/or chapter data
+levenshtein:0.08333333333333337 synonym_distance:0.1333333333333333 Jaro_winkler:0.4305555555555556 res_similarity:0.22827215191756178
+labels1:school labels2:publisher
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.4259259259259258 res_similarity:0.25485490117827597
+labels1:school labels2:pages
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.09649206508593623
+labels1:school labels2:language
+levenshtein:0.0 synonym_distance:0.23529411764705888 Jaro_winkler:0.0 res_similarity:0.09349901461493494
+labels1:school labels2:price
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.4555555555555555 res_similarity:0.23837636074471635
+labels1:school labels2:in journal
+levenshtein:0.19999999999999996 synonym_distance:0.2666666666666666 Jaro_winkler:0.5111111111111111 res_similarity:0.3076906422992086
+labels1:school labels2:edition
+levenshtein:0.1428571428571429 synonym_distance:0.23529411764705888 Jaro_winkler:0.4365079365079365 res_similarity:0.28464581370173136
+labels1:school labels2:issn
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.4722222222222221 res_similarity:0.270749439699862
+labels1:school labels2:date
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.11781874877871651
+labels1:school labels2:annote
+levenshtein:0.16666666666666663 synonym_distance:0.18181818181818188 Jaro_winkler:0.4444444444444444 res_similarity:0.2742691791892048
+labels1:school labels2:isbn
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.4722222222222221 res_similarity:0.2425432288478769
+labels1:school labels2:title
+levenshtein:0.0 synonym_distance:0.2666666666666666 Jaro_winkler:0.4555555555555555 res_similarity:0.2839085705188584
+labels1:school labels2:note
+levenshtein:0.16666666666666663 synonym_distance:0.2222222222222222 Jaro_winkler:0.4722222222222221 res_similarity:0.2998491849600433
+labels1:school labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.11111111111111116 Jaro_winkler:0.329059829059829 res_similarity:0.20107927653174645
+labels1:school labels2:chapter
+levenshtein:0.1428571428571429 synonym_distance:0.3076923076923077 Jaro_winkler:0.5396825396825397 res_similarity:0.32402782897041965
+labels1:school labels2:editor
+levenshtein:0.16666666666666663 synonym_distance:0.18181818181818188 Jaro_winkler:0.4444444444444444 res_similarity:0.285646769050297
+labels1:school labels2:published
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.4259259259259258 res_similarity:0.26724679457810896
+labels1:school labels2:author
+levenshtein:0.16666666666666663 synonym_distance:0.36363636363636365 Jaro_winkler:0.5555555555555555 res_similarity:0.3798801386251687
+labels1:school labels2:lccn
+levenshtein:0.16666666666666663 synonym_distance:0.2222222222222222 Jaro_winkler:0.4722222222222221 res_similarity:0.2891567905028273
+labels1:school labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.5 res_similarity:0.32623673800284925
+labels1:school labels2:series
+levenshtein:0.16666666666666663 synonym_distance:0.23529411764705888 Jaro_winkler:0.4444444444444444 res_similarity:0.2862839992164413
+labels1:articles labels2:type
+levenshtein:0.25 synonym_distance:0.19999999999999996 Jaro_winkler:0.5833333333333334 res_similarity:0.37358860017208945
+labels1:articles labels2:keywords
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.41666666666666674 res_similarity:0.2494552515637189
+labels1:articles labels2:location
+levenshtein:0.0 synonym_distance:0.2666666666666666 Jaro_winkler:0.5 res_similarity:0.3044229438763768
+labels1:articles labels2:copyright
+levenshtein:0.0 synonym_distance:0.1333333333333333 Jaro_winkler:0.4907407407407407 res_similarity:0.2499298472490208
+labels1:articles labels2:institution
+levenshtein:0.18181818181818177 synonym_distance:0.2222222222222222 Jaro_winkler:0.31060606060606055 res_similarity:0.23674868527271795
+labels1:articles labels2:mr number
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.4907407407407407 res_similarity:0.2884828220113095
+labels1:articles labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.3529411764705883 Jaro_winkler:0.46666666666666656 res_similarity:0.32070978279330664
+labels1:articles labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.09999999999999998 Jaro_winkler:0.594047619047619 res_similarity:0.34752728311403175
+labels1:articles labels2:school
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5277777777777778 res_similarity:0.28812922105124317
+labels1:articles labels2:directors
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.6944444444444443 res_similarity:0.36236990955930937
+labels1:articles labels2:url
+levenshtein:0.25 synonym_distance:0.2222222222222222 Jaro_winkler:0.6388888888888888 res_similarity:0.37734437642977003
+labels1:articles labels2:affiliation
+levenshtein:0.18181818181818177 synonym_distance:0.2222222222222222 Jaro_winkler:0.5492424242424242 res_similarity:0.32977130316787995
+labels1:articles labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.19999999999999996 Jaro_winkler:0.6025641025641025 res_similarity:0.3006056714934041
+labels1:articles labels2:abstract
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.5833333333333334 res_similarity:0.3144480191078129
+labels1:articles labels2:size
+levenshtein:0.25 synonym_distance:0.19999999999999996 Jaro_winkler:0.5833333333333334 res_similarity:0.3521725962166855
+labels1:articles labels2:ontents
+levenshtein:0.25 synonym_distance:0.15384615384615385 Jaro_winkler:0.6011904761904762 res_similarity:0.35856447243963735
+labels1:articles labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.21052631578947367 Jaro_winkler:0.4305555555555556 res_similarity:0.2796391090990151
+labels1:articles labels2:page and/or chapter data
+levenshtein:0.125 synonym_distance:0.06666666666666665 Jaro_winkler:0.4722222222222221 res_similarity:0.25742771109047574
+labels1:articles labels2:publisher
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.4814814814814814 res_similarity:0.29675455353632346
+labels1:articles labels2:pages
+levenshtein:0.25 synonym_distance:0.3076923076923077 Jaro_winkler:0.6583333333333333 res_similarity:0.4105473411685325
+labels1:articles labels2:language
+levenshtein:0.125 synonym_distance:0.2857142857142857 Jaro_winkler:0.5 res_similarity:0.31549117292898843
+labels1:articles labels2:price
+levenshtein:0.5 synonym_distance:0.33333333333333326 Jaro_winkler:0.7666666666666666 res_similarity:0.5232468051572672
+labels1:articles labels2:in journal
+levenshtein:0.0 synonym_distance:0.125 Jaro_winkler:0.4833333333333334 res_similarity:0.25042278682742775
+labels1:articles labels2:edition
+levenshtein:0.125 synonym_distance:0.2857142857142857 Jaro_winkler:0.3452380952380951 res_similarity:0.2585156388466461
+labels1:articles labels2:issn
+levenshtein:0.125 synonym_distance:0.19999999999999996 Jaro_winkler:0.45833333333333326 res_similarity:0.2742475696052017
+labels1:articles labels2:date
+levenshtein:0.25 synonym_distance:0.19999999999999996 Jaro_winkler:0.7083333333333334 res_similarity:0.3956433984575762
+labels1:articles labels2:annote
+levenshtein:0.25 synonym_distance:0.16666666666666663 Jaro_winkler:0.625 res_similarity:0.3633927233888239
+labels1:articles labels2:isbn
+levenshtein:0.125 synonym_distance:0.19999999999999996 Jaro_winkler:0.45833333333333326 res_similarity:0.272470295050747
+labels1:articles labels2:title
+levenshtein:0.5 synonym_distance:0.33333333333333326 Jaro_winkler:0.7666666666666666 res_similarity:0.5508730221899507
+labels1:articles labels2:note
+levenshtein:0.25 synonym_distance:0.19999999999999996 Jaro_winkler:0.5833333333333334 res_similarity:0.3517593946113209
+labels1:articles labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.10526315789473684 Jaro_winkler:0.5352564102564102 res_similarity:0.2686160373312412
+labels1:articles labels2:chapter
+levenshtein:0.125 synonym_distance:0.15384615384615385 Jaro_winkler:0.6011904761904762 res_similarity:0.3165199571359246
+labels1:articles labels2:editor
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.36111111111111116 res_similarity:0.225322098956557
+labels1:articles labels2:published
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.4814814814814814 res_similarity:0.29980098550011025
+labels1:articles labels2:author
+levenshtein:0.25 synonym_distance:0.33333333333333326 Jaro_winkler:0.5277777777777778 res_similarity:0.3839009784668614
+labels1:articles labels2:lccn
+levenshtein:0.125 synonym_distance:0.19999999999999996 Jaro_winkler:0.45833333333333326 res_similarity:0.2890837838620378
+labels1:articles labels2:inmonography
+levenshtein:0.0 synonym_distance:0.11111111111111116 Jaro_winkler:0.4027777777777777 res_similarity:0.21563004397441074
+labels1:articles labels2:series
+levenshtein:0.375 synonym_distance:0.33333333333333326 Jaro_winkler:0.7222222222222222 res_similarity:0.449641253085094
+labels1:editor labels2:type
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08825640557373093
+labels1:editor labels2:keywords
+levenshtein:0.25 synonym_distance:0.2857142857142857 Jaro_winkler:0.625 res_similarity:0.3995037546496068
+labels1:editor labels2:location
+levenshtein:0.25 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.32130829502576097
+labels1:editor labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.1333333333333333 Jaro_winkler:0.5 res_similarity:0.23481971867124618
+labels1:editor labels2:institution
+levenshtein:0.2727272727272727 synonym_distance:0.23529411764705888 Jaro_winkler:0.5050505050505051 res_similarity:0.3434911538507521
+labels1:editor labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.1333333333333333 Jaro_winkler:0.4259259259259258 res_similarity:0.2597498810920009
+labels1:editor labels2:is part of
+levenshtein:0.19999999999999996 synonym_distance:0.125 Jaro_winkler:0.6055555555555555 res_similarity:0.31479704030874556
+labels1:editor labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.30000000000000004 Jaro_winkler:0.46031746031746024 res_similarity:0.32364424995171326
+labels1:editor labels2:school
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.4444444444444444 res_similarity:0.2829617240757538
+labels1:editor labels2:directors
+levenshtein:0.4444444444444444 synonym_distance:0.4 Jaro_winkler:0.7222222222222222 res_similarity:0.523833737699523
+labels1:editor labels2:url
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09950714471530238
+labels1:editor labels2:affiliation
+levenshtein:0.2727272727272727 synonym_distance:0.11764705882352944 Jaro_winkler:0.5050505050505051 res_similarity:0.32261803918159526
+labels1:editor labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.1428571428571428 Jaro_winkler:0.49572649572649574 res_similarity:0.2679631691132947
+labels1:editor labels2:abstract
+levenshtein:0.125 synonym_distance:0.18181818181818188 Jaro_winkler:0.5277777777777778 res_similarity:0.27424045816333853
+labels1:editor labels2:size
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.4722222222222221 res_similarity:0.2942129335154321
+labels1:editor labels2:ontents
+levenshtein:0.0 synonym_distance:0.15384615384615385 Jaro_winkler:0.4365079365079365 res_similarity:0.2227919058071322
+labels1:editor labels2:organization
+levenshtein:0.25 synonym_distance:0.2222222222222222 Jaro_winkler:0.5 res_similarity:0.3334507527942655
+labels1:editor labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.1333333333333333 Jaro_winkler:0.611111111111111 res_similarity:0.3629614303853238
+labels1:editor labels2:publisher
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.5185185185185185 res_similarity:0.3154459888474632
+labels1:editor labels2:pages
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.0 res_similarity:0.07742221511463572
+labels1:editor labels2:language
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.0 res_similarity:0.06662815268806298
+labels1:editor labels2:price
+levenshtein:0.16666666666666663 synonym_distance:0.21052631578947367 Jaro_winkler:0.4555555555555555 res_similarity:0.30316078209571784
+labels1:editor labels2:in journal
+levenshtein:0.19999999999999996 synonym_distance:0.16000000000000003 Jaro_winkler:0.6 res_similarity:0.3051880676883243
+labels1:editor labels2:edition
+levenshtein:0.7142857142857143 synonym_distance:0.6153846153846154 Jaro_winkler:0.9095238095238095 res_similarity:0.7439346560587607
+labels1:editor labels2:issn
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.4722222222222221 res_similarity:0.2787496101449765
+labels1:editor labels2:date
+levenshtein:0.33333333333333337 synonym_distance:0.19999999999999996 Jaro_winkler:0.611111111111111 res_similarity:0.38308261632743723
+labels1:editor labels2:annote
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.38888888888888884 res_similarity:0.20897933666438234
+labels1:editor labels2:isbn
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.4722222222222221 res_similarity:0.273696216882655
+labels1:editor labels2:title
+levenshtein:0.33333333333333337 synonym_distance:0.36363636363636365 Jaro_winkler:0.5777777777777778 res_similarity:0.4282323295064756
+labels1:editor labels2:note
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.4722222222222221 res_similarity:0.2892714993722406
+labels1:editor labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.3157894736842105 Jaro_winkler:0.4145299145299146 res_similarity:0.3187523411751707
+labels1:editor labels2:chapter
+levenshtein:0.2857142857142857 synonym_distance:0.18181818181818188 Jaro_winkler:0.5396825396825397 res_similarity:0.35725336920349837
+labels1:editor labels2:editor
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:editor labels2:published
+levenshtein:0.11111111111111116 synonym_distance:0.2666666666666666 Jaro_winkler:0.4259259259259258 res_similarity:0.2834557283964656
+labels1:editor labels2:author
+levenshtein:0.33333333333333337 synonym_distance:0.33333333333333326 Jaro_winkler:0.6666666666666666 res_similarity:0.4377092833299301
+labels1:editor labels2:lccn
+levenshtein:0.0 synonym_distance:0.10526315789473684 Jaro_winkler:0.0 res_similarity:0.03978339889837039
+labels1:editor labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.3076923076923077 Jaro_winkler:0.5833333333333334 res_similarity:0.3563478591392257
+labels1:editor labels2:series
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.5555555555555555 res_similarity:0.3364693944360104
+labels1:collection labels2:type
+levenshtein:0.09999999999999998 synonym_distance:0.4 Jaro_winkler:0.44999999999999996 res_similarity:0.32590863821996185
+labels1:collection labels2:keywords
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.31666666666666665 res_similarity:0.17284488321224825
+labels1:collection labels2:location
+levenshtein:0.5 synonym_distance:0.5263157894736842 Jaro_winkler:0.8107142857142856 res_similarity:0.6109151136847302
+labels1:collection labels2:copyright
+levenshtein:0.19999999999999996 synonym_distance:0.21052631578947367 Jaro_winkler:0.5314814814814816 res_similarity:0.3160638541708578
+labels1:collection labels2:institution
+levenshtein:0.36363636363636365 synonym_distance:0.38095238095238093 Jaro_winkler:0.5878787878787879 res_similarity:0.4449279444350075
+labels1:collection labels2:mr number
+levenshtein:0.0 synonym_distance:0.21052631578947367 Jaro_winkler:0.4037037037037037 res_similarity:0.21665190835056597
+labels1:collection labels2:is part of
+levenshtein:0.19999999999999996 synonym_distance:0.125 Jaro_winkler:0.46666666666666656 res_similarity:0.29028503108774056
+labels1:collection labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.25 Jaro_winkler:0.5523809523809524 res_similarity:0.35100435712809036
+labels1:collection labels2:school
+levenshtein:0.19999999999999996 synonym_distance:0.25 Jaro_winkler:0.6055555555555555 res_similarity:0.371020119597962
+labels1:collection labels2:directors
+levenshtein:0.30000000000000004 synonym_distance:0.3157894736842105 Jaro_winkler:0.5314814814814816 res_similarity:0.3834952915563782
+labels1:collection labels2:url
+levenshtein:0.09999999999999998 synonym_distance:0.2222222222222222 Jaro_winkler:0.47777777777777786 res_similarity:0.27281018119026706
+labels1:collection labels2:affiliation
+levenshtein:0.4545454545454546 synonym_distance:0.4545454545454546 Jaro_winkler:0.5848484848484848 res_similarity:0.4979593663114392
+labels1:collection labels2:in collection
+levenshtein:0.7692307692307692 synonym_distance:0.8695652173913043 Jaro_winkler:0.923076923076923 res_similarity:0.8538720978899255
+labels1:collection labels2:abstract
+levenshtein:0.09999999999999998 synonym_distance:0.2222222222222222 Jaro_winkler:0.31666666666666665 res_similarity:0.2185605670082552
+labels1:collection labels2:size
+levenshtein:0.09999999999999998 synonym_distance:0.19999999999999996 Jaro_winkler:0.44999999999999996 res_similarity:0.253155337026104
+labels1:collection labels2:ontents
+levenshtein:0.30000000000000004 synonym_distance:0.23529411764705888 Jaro_winkler:0.465079365079365 res_similarity:0.3319726710239802
+labels1:collection labels2:organization
+levenshtein:0.33333333333333337 synonym_distance:0.4347826086956521 Jaro_winkler:0.5722222222222223 res_similarity:0.4606677928853955
+labels1:collection labels2:page and/or chapter data
+levenshtein:0.08333333333333337 synonym_distance:0.17647058823529416 Jaro_winkler:0.4361111111111111 res_similarity:0.24674752925247292
+labels1:collection labels2:publisher
+levenshtein:0.09999999999999998 synonym_distance:0.3157894736842105 Jaro_winkler:0.43333333333333335 res_similarity:0.2964333675382241
+labels1:collection labels2:pages
+levenshtein:0.09999999999999998 synonym_distance:0.4 Jaro_winkler:0.43333333333333335 res_similarity:0.3202282193722802
+labels1:collection labels2:language
+levenshtein:0.09999999999999998 synonym_distance:0.33333333333333326 Jaro_winkler:0.4833333333333334 res_similarity:0.32060572324400316
+labels1:collection labels2:price
+levenshtein:0.09999999999999998 synonym_distance:0.25 Jaro_winkler:0.5333333333333333 res_similarity:0.3213936746482277
+labels1:collection labels2:in journal
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.46666666666666656 res_similarity:0.27388571658229527
+labels1:collection labels2:edition
+levenshtein:0.4 synonym_distance:0.47058823529411764 Jaro_winkler:0.6047619047619048 res_similarity:0.49652315325612384
+labels1:collection labels2:issn
+levenshtein:0.09999999999999998 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.15182506496955916
+labels1:collection labels2:date
+levenshtein:0.09999999999999998 synonym_distance:0.2666666666666666 Jaro_winkler:0.3999999999999999 res_similarity:0.2551104692407949
+labels1:collection labels2:annote
+levenshtein:0.09999999999999998 synonym_distance:0.16666666666666663 Jaro_winkler:0.48888888888888893 res_similarity:0.2801082132067291
+labels1:collection labels2:isbn
+levenshtein:0.09999999999999998 synonym_distance:0.1428571428571428 Jaro_winkler:0.0 res_similarity:0.09100227832703363
+labels1:collection labels2:title
+levenshtein:0.19999999999999996 synonym_distance:0.2666666666666666 Jaro_winkler:0.5222222222222221 res_similarity:0.3272543425387907
+labels1:collection labels2:note
+levenshtein:0.19999999999999996 synonym_distance:0.19999999999999996 Jaro_winkler:0.5722222222222223 res_similarity:0.3361280969152093
+labels1:collection labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.21052631578947367 Jaro_winkler:0.4948717948717949 res_similarity:0.2995233306448546
+labels1:collection labels2:chapter
+levenshtein:0.19999999999999996 synonym_distance:0.3076923076923077 Jaro_winkler:0.465079365079365 res_similarity:0.3411478175884983
+labels1:collection labels2:editor
+levenshtein:0.19999999999999996 synonym_distance:0.25 Jaro_winkler:0.48888888888888893 res_similarity:0.3545233912741925
+labels1:collection labels2:published
+levenshtein:0.09999999999999998 synonym_distance:0.3157894736842105 Jaro_winkler:0.43333333333333335 res_similarity:0.2946007319836432
+labels1:collection labels2:author
+levenshtein:0.19999999999999996 synonym_distance:0.23529411764705888 Jaro_winkler:0.34444444444444433 res_similarity:0.26289894022571003
+labels1:collection labels2:lccn
+levenshtein:0.30000000000000004 synonym_distance:0.25 Jaro_winkler:0.5722222222222223 res_similarity:0.37110613643453616
+labels1:collection labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.2222222222222222 Jaro_winkler:0.40555555555555567 res_similarity:0.24811541398936893
+labels1:collection labels2:series
+levenshtein:0.19999999999999996 synonym_distance:0.3529411764705883 Jaro_winkler:0.5111111111111111 res_similarity:0.3573683607680323
+labels1:chapters labels2:type
+levenshtein:0.25 synonym_distance:0.18181818181818188 Jaro_winkler:0.5833333333333334 res_similarity:0.33447720500236794
+labels1:chapters labels2:keywords
+levenshtein:0.125 synonym_distance:0.1333333333333333 Jaro_winkler:0.5 res_similarity:0.26095089235481395
+labels1:chapters labels2:location
+levenshtein:0.125 synonym_distance:0.1333333333333333 Jaro_winkler:0.5833333333333334 res_similarity:0.30586965433703894
+labels1:chapters labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.125 Jaro_winkler:0.5694444444444444 res_similarity:0.2696877789779796
+labels1:chapters labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.11111111111111116 Jaro_winkler:0.4053030303030303 res_similarity:0.22152796289925622
+labels1:chapters labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.25 Jaro_winkler:0.4907407407407407 res_similarity:0.32932358288244923
+labels1:chapters labels2:is part of
+levenshtein:0.19999999999999996 synonym_distance:0.11764705882352944 Jaro_winkler:0.46666666666666656 res_similarity:0.2673104156870007
+labels1:chapters labels2:in proceedings
+levenshtein:0.2142857142857143 synonym_distance:0.09523809523809523 Jaro_winkler:0.5273809523809524 res_similarity:0.2998140434832419
+labels1:chapters labels2:school
+levenshtein:0.125 synonym_distance:0.3076923076923077 Jaro_winkler:0.5277777777777778 res_similarity:0.32871798323126633
+labels1:chapters labels2:directors
+levenshtein:0.33333333333333337 synonym_distance:0.23529411764705888 Jaro_winkler:0.5648148148148148 res_similarity:0.40729150624121885
+labels1:chapters labels2:url
+levenshtein:0.125 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.11066650515202617
+labels1:chapters labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.11111111111111116 Jaro_winkler:0.4772727272727273 res_similarity:0.24241937696611268
+labels1:chapters labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.09999999999999998 Jaro_winkler:0.4241452991452992 res_similarity:0.22842533086094602
+labels1:chapters labels2:abstract
+levenshtein:0.0 synonym_distance:0.1333333333333333 Jaro_winkler:0.5833333333333334 res_similarity:0.3112223609379986
+labels1:chapters labels2:size
+levenshtein:0.125 synonym_distance:0.18181818181818188 Jaro_winkler:0.45833333333333326 res_similarity:0.2697804797116875
+labels1:chapters labels2:ontents
+levenshtein:0.25 synonym_distance:0.2857142857142857 Jaro_winkler:0.6011904761904762 res_similarity:0.3741174185987044
+labels1:chapters labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.10526315789473684 Jaro_winkler:0.4305555555555556 res_similarity:0.23755609000422365
+labels1:chapters labels2:page and/or chapter data
+levenshtein:0.29166666666666663 synonym_distance:0.4516129032258065 Jaro_winkler:0.4722222222222221 res_similarity:0.4053588773764327
+labels1:chapters labels2:publisher
+levenshtein:0.11111111111111116 synonym_distance:0.25 Jaro_winkler:0.5648148148148148 res_similarity:0.3526011974465473
+labels1:chapters labels2:pages
+levenshtein:0.375 synonym_distance:0.16666666666666663 Jaro_winkler:0.6833333333333332 res_similarity:0.4243104661292467
+labels1:chapters labels2:language
+levenshtein:0.0 synonym_distance:0.1333333333333333 Jaro_winkler:0.5 res_similarity:0.26213349354088594
+labels1:chapters labels2:price
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5472222222222222 res_similarity:0.28354757410638914
+labels1:chapters labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.11764705882352944 Jaro_winkler:0.40833333333333344 res_similarity:0.2224491547587506
+labels1:chapters labels2:edition
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.42261904761904767 res_similarity:0.2304622382751129
+labels1:chapters labels2:issn
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.0 res_similarity:0.06947760572931433
+labels1:chapters labels2:date
+levenshtein:0.375 synonym_distance:0.36363636363636365 Jaro_winkler:0.7083333333333334 res_similarity:0.47509699293570784
+labels1:chapters labels2:annote
+levenshtein:0.25 synonym_distance:0.3076923076923077 Jaro_winkler:0.625 res_similarity:0.4037464648929705
+labels1:chapters labels2:isbn
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.0 res_similarity:0.07396923491699901
+labels1:chapters labels2:title
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5499999999999999 res_similarity:0.3215423946049175
+labels1:chapters labels2:note
+levenshtein:0.25 synonym_distance:0.36363636363636365 Jaro_winkler:0.5833333333333334 res_similarity:0.40082773691933604
+labels1:chapters labels2:human creator
+levenshtein:0.15384615384615385 synonym_distance:0.09999999999999998 Jaro_winkler:0.5192307692307693 res_similarity:0.3146390873109375
+labels1:chapters labels2:chapter
+levenshtein:0.875 synonym_distance:1.0 Jaro_winkler:0.9875 res_similarity:0.9527526932184003
+labels1:chapters labels2:editor
+levenshtein:0.25 synonym_distance:0.15384615384615385 Jaro_winkler:0.5277777777777778 res_similarity:0.3157392172207645
+labels1:chapters labels2:published
+levenshtein:0.0 synonym_distance:0.125 Jaro_winkler:0.45833333333333326 res_similarity:0.24772667417972122
+labels1:chapters labels2:author
+levenshtein:0.25 synonym_distance:0.15384615384615385 Jaro_winkler:0.6388888888888888 res_similarity:0.37148578441538727
+labels1:chapters labels2:lccn
+levenshtein:0.0 synonym_distance:0.18181818181818188 Jaro_winkler:0.45833333333333326 res_similarity:0.24116835837376022
+labels1:chapters labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.21052631578947367 Jaro_winkler:0.4027777777777777 res_similarity:0.22626996661903748
+labels1:chapters labels2:series
+levenshtein:0.25 synonym_distance:0.3076923076923077 Jaro_winkler:0.5277777777777778 res_similarity:0.3714392571723586
+labels1:author labels2:type
+levenshtein:0.16666666666666663 synonym_distance:0.19999999999999996 Jaro_winkler:0.4722222222222221 res_similarity:0.2584772714367466
+labels1:author labels2:keywords
+levenshtein:0.25 synonym_distance:0.2857142857142857 Jaro_winkler:0.5277777777777778 res_similarity:0.35723506161267765
+labels1:author labels2:location
+levenshtein:0.25 synonym_distance:0.23529411764705888 Jaro_winkler:0.5138888888888888 res_similarity:0.3481076198613111
+labels1:author labels2:copyright
+levenshtein:0.0 synonym_distance:0.2666666666666666 Jaro_winkler:0.5185185185185185 res_similarity:0.2851232854060268
+labels1:author labels2:institution
+levenshtein:0.2727272727272727 synonym_distance:0.23529411764705888 Jaro_winkler:0.4191919191919191 res_similarity:0.3100896912470512
+labels1:author labels2:mr number
+levenshtein:0.2222222222222222 synonym_distance:0.2666666666666666 Jaro_winkler:0.5185185185185185 res_similarity:0.3419731128742256
+labels1:author labels2:is part of
+levenshtein:0.30000000000000004 synonym_distance:0.125 Jaro_winkler:0.6055555555555555 res_similarity:0.30660049341191037
+labels1:author labels2:in proceedings
+levenshtein:0.0714285714285714 synonym_distance:0.19999999999999996 Jaro_winkler:0.32539682539682535 res_similarity:0.20508303087344915
+labels1:author labels2:school
+levenshtein:0.16666666666666663 synonym_distance:0.33333333333333326 Jaro_winkler:0.5555555555555555 res_similarity:0.3490463024940189
+labels1:author labels2:directors
+levenshtein:0.2222222222222222 synonym_distance:0.33333333333333326 Jaro_winkler:0.5 res_similarity:0.3473833851107373
+labels1:author labels2:url
+levenshtein:0.16666666666666663 synonym_distance:0.4444444444444444 Jaro_winkler:0.5 res_similarity:0.3815124494234181
+labels1:author labels2:affiliation
+levenshtein:0.2727272727272727 synonym_distance:0.19999999999999996 Jaro_winkler:0.4191919191919191 res_similarity:0.3003015265641719
+labels1:author labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.10526315789473684 Jaro_winkler:0.4145299145299146 res_similarity:0.23621195126552583
+labels1:author labels2:abstract
+levenshtein:0.25 synonym_distance:0.23529411764705888 Jaro_winkler:0.625 res_similarity:0.38778507945956464
+labels1:author labels2:size
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08908274770305222
+labels1:author labels2:ontents
+levenshtein:0.1428571428571429 synonym_distance:0.3076923076923077 Jaro_winkler:0.4365079365079365 res_similarity:0.30745761478234057
+labels1:author labels2:organization
+levenshtein:0.25 synonym_distance:0.2222222222222222 Jaro_winkler:0.4722222222222221 res_similarity:0.31014659655800614
+labels1:author labels2:page and/or chapter data
+levenshtein:0.125 synonym_distance:0.19999999999999996 Jaro_winkler:0.5277777777777778 res_similarity:0.29929007003151475
+labels1:author labels2:publisher
+levenshtein:0.33333333333333337 synonym_distance:0.2666666666666666 Jaro_winkler:0.611111111111111 res_similarity:0.44515911163752575
+labels1:author labels2:pages
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.4555555555555555 res_similarity:0.2657980429279116
+labels1:author labels2:language
+levenshtein:0.125 synonym_distance:0.23529411764705888 Jaro_winkler:0.5277777777777778 res_similarity:0.3095872088812945
+labels1:author labels2:price
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.0 res_similarity:0.1600287484110465
+labels1:author labels2:in journal
+levenshtein:0.19999999999999996 synonym_distance:0.375 Jaro_winkler:0.48888888888888893 res_similarity:0.37924712290329887
+labels1:author labels2:edition
+levenshtein:0.2857142857142857 synonym_distance:0.3076923076923077 Jaro_winkler:0.5396825396825397 res_similarity:0.40058579763456514
+labels1:author labels2:issn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.09088430803189211
+labels1:author labels2:date
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.611111111111111 res_similarity:0.4106969808869916
+labels1:author labels2:annote
+levenshtein:0.16666666666666663 synonym_distance:0.33333333333333326 Jaro_winkler:0.5555555555555555 res_similarity:0.3676628395321779
+labels1:author labels2:isbn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08169419150328731
+labels1:author labels2:title
+levenshtein:0.16666666666666663 synonym_distance:0.36363636363636365 Jaro_winkler:0.4555555555555555 res_similarity:0.3380624342948063
+labels1:author labels2:note
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.4722222222222221 res_similarity:0.3578810048217883
+labels1:author labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.36363636363636365 Jaro_winkler:0.5747863247863249 res_similarity:0.38414014377384853
+labels1:author labels2:chapter
+levenshtein:0.2857142857142857 synonym_distance:0.46153846153846156 Jaro_winkler:0.6626984126984127 res_similarity:0.4669326617575351
+labels1:author labels2:editor
+levenshtein:0.33333333333333337 synonym_distance:0.4 Jaro_winkler:0.6666666666666666 res_similarity:0.4614219431393888
+labels1:author labels2:published
+levenshtein:0.2222222222222222 synonym_distance:0.1333333333333333 Jaro_winkler:0.5185185185185185 res_similarity:0.30540452058570156
+labels1:author labels2:author
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:author labels2:lccn
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.08302628102104741
+labels1:author labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.5 res_similarity:0.2914336177050843
+labels1:author labels2:series
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.15739603801816168
+labels1:book labels2:type
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.09675871923660843
+labels1:book labels2:keywords
+levenshtein:0.125 synonym_distance:0.5 Jaro_winkler:0.41666666666666674 res_similarity:0.38133962066843785
+labels1:book labels2:location
+levenshtein:0.25 synonym_distance:0.17391304347826086 Jaro_winkler:0.45833333333333326 res_similarity:0.30865056291695736
+labels1:book labels2:copyright
+levenshtein:0.11111111111111116 synonym_distance:0.2666666666666666 Jaro_winkler:0.4537037037037037 res_similarity:0.29412562782427976
+labels1:book labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.23076923076923084 Jaro_winkler:0.0 res_similarity:0.1253244853379623
+labels1:book labels2:mr number
+levenshtein:0.0 synonym_distance:0.2857142857142857 Jaro_winkler:0.0 res_similarity:0.11251061986619698
+labels1:book labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.19047619047619047 Jaro_winkler:0.0 res_similarity:0.10482566772416536
+labels1:book labels2:in proceedings
+levenshtein:0.0714285714285714 synonym_distance:0.19999999999999996 Jaro_winkler:0.44047619047619047 res_similarity:0.2506915137017704
+labels1:book labels2:school
+levenshtein:0.33333333333333337 synonym_distance:0.4 Jaro_winkler:0.611111111111111 res_similarity:0.4367847466825159
+labels1:book labels2:directors
+levenshtein:0.11111111111111116 synonym_distance:0.4 Jaro_winkler:0.0 res_similarity:0.19302207491582163
+labels1:book labels2:url
+levenshtein:0.0 synonym_distance:0.5 Jaro_winkler:0.0 res_similarity:0.20866906978404146
+labels1:book labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.15384615384615385 Jaro_winkler:0.0 res_similarity:0.08855494807793038
+labels1:book labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.2222222222222222 Jaro_winkler:0.4423076923076923 res_similarity:0.28972801861251857
+labels1:book labels2:abstract
+levenshtein:0.125 synonym_distance:0.3076923076923077 Jaro_winkler:0.45833333333333326 res_similarity:0.2927319260615835
+labels1:book labels2:size
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.08991511566741728
+labels1:book labels2:ontents
+levenshtein:0.0 synonym_distance:0.21052631578947367 Jaro_winkler:0.4642857142857142 res_similarity:0.2612191690944332
+labels1:book labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.25 Jaro_winkler:0.4444444444444444 res_similarity:0.276336847202147
+labels1:book labels2:page and/or chapter data
+levenshtein:0.04166666666666663 synonym_distance:0.1428571428571428 Jaro_winkler:0.4305555555555556 res_similarity:0.23912532450351462
+labels1:book labels2:publisher
+levenshtein:0.11111111111111116 synonym_distance:0.2857142857142857 Jaro_winkler:0.4537037037037037 res_similarity:0.30058208740875414
+labels1:book labels2:pages
+levenshtein:0.0 synonym_distance:0.4 Jaro_winkler:0.0 res_similarity:0.17080247653696518
+labels1:book labels2:language
+levenshtein:0.0 synonym_distance:0.3076923076923077 Jaro_winkler:0.0 res_similarity:0.14657723548799534
+labels1:book labels2:price
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.0 res_similarity:0.1652396626816834
+labels1:book labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.2666666666666666 Jaro_winkler:0.44999999999999996 res_similarity:0.2855334760395887
+labels1:book labels2:edition
+levenshtein:0.1428571428571429 synonym_distance:0.3076923076923077 Jaro_winkler:0.0 res_similarity:0.16811450949859097
+labels1:book labels2:issn
+levenshtein:0.0 synonym_distance:0.2222222222222222 Jaro_winkler:0.0 res_similarity:0.0913393840966227
+labels1:book labels2:date
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.10677267716234161
+labels1:book labels2:annote
+levenshtein:0.16666666666666663 synonym_distance:0.36363636363636365 Jaro_winkler:0.4722222222222221 res_similarity:0.34280633342620015
+labels1:book labels2:isbn
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.09832398314981346
+labels1:book labels2:title
+levenshtein:0.0 synonym_distance:0.4 Jaro_winkler:0.0 res_similarity:0.1745522749817843
+labels1:book labels2:note
+levenshtein:0.25 synonym_distance:0.25 Jaro_winkler:0.5 res_similarity:0.33891099271138414
+labels1:book labels2:human creator
+levenshtein:0.07692307692307687 synonym_distance:0.23529411764705888 Jaro_winkler:0.0 res_similarity:0.12394233428815031
+labels1:book labels2:chapter
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.14132324884448955
+labels1:book labels2:editor
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.4722222222222221 res_similarity:0.34033248412036066
+labels1:book labels2:published
+levenshtein:0.11111111111111116 synonym_distance:0.2857142857142857 Jaro_winkler:0.4537037037037037 res_similarity:0.29740601902921393
+labels1:book labels2:author
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.4722222222222221 res_similarity:0.3672286662412541
+labels1:book labels2:lccn
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.11132372733491644
+labels1:book labels2:inmonography
+levenshtein:0.16666666666666663 synonym_distance:0.23529411764705888 Jaro_winkler:0.5555555555555555 res_similarity:0.33027048029121725
+labels1:book labels2:series
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.0 res_similarity:0.15139070339552552
+labels1:contract labels2:type
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.45833333333333326 res_similarity:0.2432627186565217
+labels1:contract labels2:keywords
+levenshtein:0.0 synonym_distance:0.125 Jaro_winkler:0.5 res_similarity:0.2353958755798071
+labels1:contract labels2:location
+levenshtein:0.125 synonym_distance:0.5263157894736842 Jaro_winkler:0.5 res_similarity:0.40398679876268306
+labels1:contract labels2:copyright
+levenshtein:0.4444444444444444 synonym_distance:0.23529411764705888 Jaro_winkler:0.6481481481481481 res_similarity:0.46590380514621776
+labels1:contract labels2:institution
+levenshtein:0.18181818181818177 synonym_distance:0.36363636363636365 Jaro_winkler:0.5492424242424242 res_similarity:0.3602505540581756
+labels1:contract labels2:mr number
+levenshtein:0.11111111111111116 synonym_distance:0.11764705882352944 Jaro_winkler:0.32407407407407407 res_similarity:0.18178989591445682
+labels1:contract labels2:is part of
+levenshtein:0.09999999999999998 synonym_distance:0.19047619047619047 Jaro_winkler:0.4472222222222222 res_similarity:0.2612312027342772
+labels1:contract labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.09090909090909094 Jaro_winkler:0.4285714285714286 res_similarity:0.257914841104706
+labels1:contract labels2:school
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.5277777777777778 res_similarity:0.23473006026054805
+labels1:contract labels2:directors
+levenshtein:0.11111111111111116 synonym_distance:0.23529411764705888 Jaro_winkler:0.45833333333333326 res_similarity:0.27497061283433
+labels1:contract labels2:url
+levenshtein:0.125 synonym_distance:0.18181818181818188 Jaro_winkler:0.48611111111111116 res_similarity:0.26725133351318187
+labels1:contract labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.4545454545454546 Jaro_winkler:0.31060606060606055 res_similarity:0.29301588562016856
+labels1:contract labels2:in collection
+levenshtein:0.23076923076923073 synonym_distance:0.33333333333333326 Jaro_winkler:0.6032051282051282 res_similarity:0.38979174903387437
+labels1:contract labels2:abstract
+levenshtein:0.625 synonym_distance:0.625 Jaro_winkler:0.75 res_similarity:0.6842097538544177
+labels1:contract labels2:size
+levenshtein:0.0 synonym_distance:0.1333333333333333 Jaro_winkler:0.0 res_similarity:0.060405805867773665
+labels1:contract labels2:ontents
+levenshtein:0.375 synonym_distance:0.4 Jaro_winkler:0.6904761904761904 res_similarity:0.524692622389892
+labels1:contract labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.4347826086956521 Jaro_winkler:0.5472222222222222 res_similarity:0.3878635118892976
+labels1:contract labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.11428571428571432 Jaro_winkler:0.6111111111111112 res_similarity:0.3325685545325394
+labels1:contract labels2:publisher
+levenshtein:0.0 synonym_distance:0.11764705882352944 Jaro_winkler:0.0 res_similarity:0.04859712332537151
+labels1:contract labels2:pages
+levenshtein:0.0 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.09430656663452303
+labels1:contract labels2:language
+levenshtein:0.25 synonym_distance:0.21052631578947367 Jaro_winkler:0.5 res_similarity:0.34734249407069817
+labels1:contract labels2:price
+levenshtein:0.25 synonym_distance:0.19999999999999996 Jaro_winkler:0.3833333333333333 res_similarity:0.2785456128204384
+labels1:contract labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.11111111111111116 Jaro_winkler:0.5499999999999999 res_similarity:0.30880885284998494
+labels1:contract labels2:edition
+levenshtein:0.125 synonym_distance:0.4444444444444444 Jaro_winkler:0.42261904761904767 res_similarity:0.3345512241922187
+labels1:contract labels2:issn
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.45833333333333326 res_similarity:0.223237290429868
+labels1:contract labels2:date
+levenshtein:0.125 synonym_distance:0.2666666666666666 Jaro_winkler:0.45833333333333326 res_similarity:0.3308010622117865
+labels1:contract labels2:annote
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.28860645892677406
+labels1:contract labels2:isbn
+levenshtein:0.0 synonym_distance:0.16666666666666663 Jaro_winkler:0.45833333333333326 res_similarity:0.22297592963973428
+labels1:contract labels2:title
+levenshtein:0.125 synonym_distance:0.25 Jaro_winkler:0.44166666666666665 res_similarity:0.2775750715823846
+labels1:contract labels2:note
+levenshtein:0.25 synonym_distance:0.16666666666666663 Jaro_winkler:0.5972222222222222 res_similarity:0.3542778113697043
+labels1:contract labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.16666666666666663 Jaro_winkler:0.5365384615384615 res_similarity:0.31936709954197806
+labels1:contract labels2:chapter
+levenshtein:0.125 synonym_distance:0.1333333333333333 Jaro_winkler:0.6071428571428571 res_similarity:0.33235045800993024
+labels1:contract labels2:editor
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.2805908592715757
+labels1:contract labels2:published
+levenshtein:0.0 synonym_distance:0.09999999999999998 Jaro_winkler:0.0 res_similarity:0.0452025920329134
+labels1:contract labels2:author
+levenshtein:0.125 synonym_distance:0.1428571428571428 Jaro_winkler:0.5138888888888888 res_similarity:0.2698412695435021
+labels1:contract labels2:lccn
+levenshtein:0.125 synonym_distance:0.16666666666666663 Jaro_winkler:0.5833333333333334 res_similarity:0.29699742386020334
+labels1:contract labels2:inmonography
+levenshtein:0.33333333333333337 synonym_distance:0.19999999999999996 Jaro_winkler:0.5277777777777778 res_similarity:0.35554167396464376
+labels1:contract labels2:series
+levenshtein:0.125 synonym_distance:0.19047619047619047 Jaro_winkler:0.4305555555555556 res_similarity:0.27734977185543663
+labels1:proceedings labels2:type
+levenshtein:0.09090909090909094 synonym_distance:0.18181818181818188 Jaro_winkler:0.5606060606060607 res_similarity:0.26746392944522557
+labels1:proceedings labels2:keywords
+levenshtein:0.18181818181818177 synonym_distance:0.1333333333333333 Jaro_winkler:0.6265151515151516 res_similarity:0.3393627405815662
+labels1:proceedings labels2:location
+levenshtein:0.2727272727272727 synonym_distance:0.4 Jaro_winkler:0.6212121212121212 res_similarity:0.4153559506701679
+labels1:proceedings labels2:copyright
+levenshtein:0.18181818181818177 synonym_distance:0.125 Jaro_winkler:0.6262626262626262 res_similarity:0.33473523927280413
+labels1:proceedings labels2:institution
+levenshtein:0.0 synonym_distance:0.34782608695652173 Jaro_winkler:0.4545454545454546 res_similarity:0.3012166523276705
+labels1:proceedings labels2:mr number
+levenshtein:0.09090909090909094 synonym_distance:0.25 Jaro_winkler:0.468013468013468 res_similarity:0.2757389077231708
+labels1:proceedings labels2:is part of
+levenshtein:0.0 synonym_distance:0.11764705882352944 Jaro_winkler:0.4606060606060607 res_similarity:0.2650497657470895
+labels1:proceedings labels2:in proceedings
+levenshtein:0.7857142857142857 synonym_distance:0.88 Jaro_winkler:0.9285714285714285 res_similarity:0.8686955181268308
+labels1:proceedings labels2:school
+levenshtein:0.09090909090909094 synonym_distance:0.15384615384615385 Jaro_winkler:0.33838383838383845 res_similarity:0.20296802805539801
+labels1:proceedings labels2:directors
+levenshtein:0.18181818181818177 synonym_distance:0.21052631578947367 Jaro_winkler:0.6033670033670034 res_similarity:0.3688478911585656
+labels1:proceedings labels2:url
+levenshtein:0.09090909090909094 synonym_distance:0.19999999999999996 Jaro_winkler:0.4747474747474747 res_similarity:0.26313811111007857
+labels1:proceedings labels2:affiliation
+levenshtein:0.0 synonym_distance:0.34782608695652173 Jaro_winkler:0.4545454545454546 res_similarity:0.3037813824447604
+labels1:proceedings labels2:in collection
+levenshtein:0.15384615384615385 synonym_distance:0.4 Jaro_winkler:0.5463869463869464 res_similarity:0.378917746409564
+labels1:proceedings labels2:abstract
+levenshtein:0.0 synonym_distance:0.30000000000000004 Jaro_winkler:0.4772727272727273 res_similarity:0.28492108632861696
+labels1:proceedings labels2:size
+levenshtein:0.09090909090909094 synonym_distance:0.18181818181818188 Jaro_winkler:0.446969696969697 res_similarity:0.2533168388076976
+labels1:proceedings labels2:ontents
+levenshtein:0.36363636363636365 synonym_distance:0.2857142857142857 Jaro_winkler:0.6450216450216449 res_similarity:0.4225811758854868
+labels1:proceedings labels2:organization
+levenshtein:0.08333333333333337 synonym_distance:0.33333333333333326 Jaro_winkler:0.398989898989899 res_similarity:0.29709304799692005
+labels1:proceedings labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.12903225806451613 Jaro_winkler:0.5618686868686869 res_similarity:0.28363572852798835
+labels1:proceedings labels2:publisher
+levenshtein:0.09090909090909094 synonym_distance:0.125 Jaro_winkler:0.4242424242424241 res_similarity:0.18814685228096592
+labels1:proceedings labels2:pages
+levenshtein:0.2727272727272727 synonym_distance:0.33333333333333326 Jaro_winkler:0.5272727272727272 res_similarity:0.38448972707319273
+labels1:proceedings labels2:language
+levenshtein:0.09090909090909094 synonym_distance:0.2222222222222222 Jaro_winkler:0.31060606060606055 res_similarity:0.22396957941803786
+labels1:proceedings labels2:price
+levenshtein:0.36363636363636365 synonym_distance:0.2666666666666666 Jaro_winkler:0.771900826446281 res_similarity:0.4977426059267802
+labels1:proceedings labels2:in journal
+levenshtein:0.09090909090909094 synonym_distance:0.23529411764705888 Jaro_winkler:0.4606060606060607 res_similarity:0.2554077505757135
+labels1:proceedings labels2:edition
+levenshtein:0.18181818181818177 synonym_distance:0.42105263157894735 Jaro_winkler:0.5616883116883117 res_similarity:0.38692772907745
+labels1:proceedings labels2:issn
+levenshtein:0.09090909090909094 synonym_distance:0.18181818181818188 Jaro_winkler:0.0 res_similarity:0.10110905791492747
+labels1:proceedings labels2:date
+levenshtein:0.09090909090909094 synonym_distance:0.36363636363636365 Jaro_winkler:0.446969696969697 res_similarity:0.31876123201061524
+labels1:proceedings labels2:annote
+levenshtein:0.09090909090909094 synonym_distance:0.3076923076923077 Jaro_winkler:0.5050505050505051 res_similarity:0.32924079754059643
+labels1:proceedings labels2:isbn
+levenshtein:0.09090909090909094 synonym_distance:0.18181818181818188 Jaro_winkler:0.0 res_similarity:0.09939063476380369
+labels1:proceedings labels2:title
+levenshtein:0.09090909090909094 synonym_distance:0.23529411764705888 Jaro_winkler:0.4303030303030304 res_similarity:0.2461067380640497
+labels1:proceedings labels2:note
+levenshtein:0.18181818181818177 synonym_distance:0.36363636363636365 Jaro_winkler:0.5606060606060607 res_similarity:0.381781218701215
+labels1:proceedings labels2:human creator
+levenshtein:0.07692307692307687 synonym_distance:0.16000000000000003 Jaro_winkler:0.39005439005439 res_similarity:0.2241867268658212
+labels1:proceedings labels2:chapter
+levenshtein:0.09090909090909094 synonym_distance:0.2857142857142857 Jaro_winkler:0.45598845598845594 res_similarity:0.30215938685577554
+labels1:proceedings labels2:editor
+levenshtein:0.2727272727272727 synonym_distance:0.375 Jaro_winkler:0.4797979797979799 res_similarity:0.37594613822904144
+labels1:proceedings labels2:published
+levenshtein:0.09090909090909094 synonym_distance:0.21052631578947367 Jaro_winkler:0.5193602693602694 res_similarity:0.28395146710629693
+labels1:proceedings labels2:author
+levenshtein:0.0 synonym_distance:0.3076923076923077 Jaro_winkler:0.33838383838383845 res_similarity:0.22556978909251493
+labels1:proceedings labels2:lccn
+levenshtein:0.18181818181818177 synonym_distance:0.18181818181818188 Jaro_winkler:0.446969696969697 res_similarity:0.2679850685405669
+labels1:proceedings labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.21052631578947367 Jaro_winkler:0.5075757575757576 res_similarity:0.2845728076979535
+labels1:proceedings labels2:series
+levenshtein:0.2727272727272727 synonym_distance:0.3076923076923077 Jaro_winkler:0.51010101010101 res_similarity:0.3591444552134848
+labels1:organization labels2:type
+levenshtein:0.08333333333333337 synonym_distance:0.19999999999999996 Jaro_winkler:0.0 res_similarity:0.10588451103682114
+labels1:organization labels2:keywords
+levenshtein:0.0 synonym_distance:0.23529411764705888 Jaro_winkler:0.4722222222222221 res_similarity:0.25713404139416046
+labels1:organization labels2:location
+levenshtein:0.41666666666666663 synonym_distance:0.5882352941176471 Jaro_winkler:0.6944444444444445 res_similarity:0.5642176491188298
+labels1:organization labels2:copyright
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.5907407407407408 res_similarity:0.3219285725035619
+labels1:organization labels2:institution
+levenshtein:0.41666666666666663 synonym_distance:0.8695652173913043 Jaro_winkler:0.6262626262626263 res_similarity:0.6490534883873712
+labels1:organization labels2:mr number
+levenshtein:0.16666666666666663 synonym_distance:0.21052631578947367 Jaro_winkler:0.462962962962963 res_similarity:0.2722920285148405
+labels1:organization labels2:is part of
+levenshtein:0.16666666666666663 synonym_distance:0.19047619047619047 Jaro_winkler:0.5722222222222223 res_similarity:0.29377390599876707
+labels1:organization labels2:in proceedings
+levenshtein:0.0714285714285714 synonym_distance:0.2142857142857143 Jaro_winkler:0.5317460317460317 res_similarity:0.2867663345971494
+labels1:organization labels2:school
+levenshtein:0.08333333333333337 synonym_distance:0.18181818181818188 Jaro_winkler:0.41666666666666674 res_similarity:0.2319628184179523
+labels1:organization labels2:directors
+levenshtein:0.08333333333333337 synonym_distance:0.2222222222222222 Jaro_winkler:0.5092592592592592 res_similarity:0.2969599941552809
+labels1:organization labels2:url
+levenshtein:0.08333333333333337 synonym_distance:0.25 Jaro_winkler:0.4722222222222221 res_similarity:0.2755302194460213
+labels1:organization labels2:affiliation
+levenshtein:0.5 synonym_distance:0.5 Jaro_winkler:0.6922799422799423 res_similarity:0.5601955309590709
+labels1:organization labels2:in collection
+levenshtein:0.3076923076923077 synonym_distance:0.36363636363636365 Jaro_winkler:0.6596459096459096 res_similarity:0.4670974435911518
+labels1:organization labels2:abstract
+levenshtein:0.08333333333333337 synonym_distance:0.36363636363636365 Jaro_winkler:0.4444444444444444 res_similarity:0.31583045798674053
+labels1:organization labels2:size
+levenshtein:0.16666666666666663 synonym_distance:0.25 Jaro_winkler:0.5555555555555555 res_similarity:0.33160681498188804
+labels1:organization labels2:ontents
+levenshtein:0.25 synonym_distance:0.33333333333333326 Jaro_winkler:0.5595238095238095 res_similarity:0.3837325892240465
+labels1:organization labels2:organization
+levenshtein:1.0 synonym_distance:1.0 Jaro_winkler:1.0 res_similarity:1.0
+labels1:organization labels2:page and/or chapter data
+levenshtein:0.20833333333333337 synonym_distance:0.1333333333333333 Jaro_winkler:0.4821428571428572 res_similarity:0.2952412709504696
+labels1:organization labels2:publisher
+levenshtein:0.08333333333333337 synonym_distance:0.4545454545454546 Jaro_winkler:0.39814814814814814 res_similarity:0.3180491495573379
+labels1:organization labels2:pages
+levenshtein:0.08333333333333337 synonym_distance:0.25 Jaro_winkler:0.3555555555555556 res_similarity:0.24584213709262887
+labels1:organization labels2:language
+levenshtein:0.25 synonym_distance:0.3157894736842105 Jaro_winkler:0.5277777777777778 res_similarity:0.37054666058316316
+labels1:organization labels2:price
+levenshtein:0.16666666666666663 synonym_distance:0.2666666666666666 Jaro_winkler:0.5222222222222223 res_similarity:0.3481090850266657
+labels1:organization labels2:in journal
+levenshtein:0.0 synonym_distance:0.30000000000000004 Jaro_winkler:0.5333333333333333 res_similarity:0.30332323349461365
+labels1:organization labels2:edition
+levenshtein:0.41666666666666663 synonym_distance:0.5 Jaro_winkler:0.576984126984127 res_similarity:0.48814313092783584
+labels1:organization labels2:issn
+levenshtein:0.16666666666666663 synonym_distance:0.4444444444444444 Jaro_winkler:0.38888888888888884 res_similarity:0.34326679670017723
+labels1:organization labels2:date
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.4444444444444444 res_similarity:0.3401717622807727
+labels1:organization labels2:annote
+levenshtein:0.25 synonym_distance:0.33333333333333326 Jaro_winkler:0.5833333333333334 res_similarity:0.3946391483102187
+labels1:organization labels2:isbn
+levenshtein:0.16666666666666663 synonym_distance:0.25 Jaro_winkler:0.38888888888888884 res_similarity:0.27678401105933315
+labels1:organization labels2:title
+levenshtein:0.16666666666666663 synonym_distance:0.3529411764705883 Jaro_winkler:0.4277777777777778 res_similarity:0.3296930030013797
+labels1:organization labels2:note
+levenshtein:0.16666666666666663 synonym_distance:0.4 Jaro_winkler:0.38888888888888884 res_similarity:0.32837062334841743
+labels1:organization labels2:human creator
+levenshtein:0.3076923076923077 synonym_distance:0.18181818181818188 Jaro_winkler:0.6004273504273504 res_similarity:0.37394312337369506
+labels1:organization labels2:chapter
+levenshtein:0.16666666666666663 synonym_distance:0.3076923076923077 Jaro_winkler:0.4484126984126984 res_similarity:0.32369132010416357
+labels1:organization labels2:editor
+levenshtein:0.25 synonym_distance:0.2666666666666666 Jaro_winkler:0.5 res_similarity:0.339838729101865
+labels1:organization labels2:published
+levenshtein:0.08333333333333337 synonym_distance:0.4545454545454546 Jaro_winkler:0.39814814814814814 res_similarity:0.32280353618027713
+labels1:organization labels2:author
+levenshtein:0.25 synonym_distance:0.2666666666666666 Jaro_winkler:0.4722222222222221 res_similarity:0.33652032036224
+labels1:organization labels2:lccn
+levenshtein:0.08333333333333337 synonym_distance:0.15384615384615385 Jaro_winkler:0.4444444444444444 res_similarity:0.2500779078177467
+labels1:organization labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.23529411764705888 Jaro_winkler:0.5 res_similarity:0.25162498960514523
+labels1:organization labels2:series
+levenshtein:0.08333333333333337 synonym_distance:0.25 Jaro_winkler:0.5 res_similarity:0.3273733158701706
+labels1:parts labels2:type
+levenshtein:0.0 synonym_distance:0.36363636363636365 Jaro_winkler:0.0 res_similarity:0.16047630115895722
+labels1:parts labels2:keywords
+levenshtein:0.25 synonym_distance:0.2666666666666666 Jaro_winkler:0.5499999999999999 res_similarity:0.3641710362138759
+labels1:parts labels2:location
+levenshtein:0.125 synonym_distance:0.5333333333333333 Jaro_winkler:0.5499999999999999 res_similarity:0.42272057807192465
+labels1:parts labels2:copyright
+levenshtein:0.2222222222222222 synonym_distance:0.2222222222222222 Jaro_winkler:0.5407407407407407 res_similarity:0.3394736063623628
+labels1:parts labels2:institution
+levenshtein:0.09090909090909094 synonym_distance:0.5454545454545454 Jaro_winkler:0.3606060606060606 res_similarity:0.3532313876049866
+labels1:parts labels2:mr number
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.4370370370370371 res_similarity:0.24549142292790832
+labels1:parts labels2:is part of
+levenshtein:0.4 synonym_distance:0.5714285714285714 Jaro_winkler:0.7000000000000001 res_similarity:0.5682005218228179
+labels1:parts labels2:in proceedings
+levenshtein:0.1428571428571429 synonym_distance:0.2857142857142857 Jaro_winkler:0.5142857142857143 res_similarity:0.33988537237394556
+labels1:parts labels2:school
+levenshtein:0.0 synonym_distance:0.4 Jaro_winkler:0.0 res_similarity:0.14849411893685502
+labels1:parts labels2:directors
+levenshtein:0.33333333333333337 synonym_distance:0.375 Jaro_winkler:0.5407407407407407 res_similarity:0.42021170046284273
+labels1:parts labels2:url
+levenshtein:0.19999999999999996 synonym_distance:0.2857142857142857 Jaro_winkler:0.5111111111111111 res_similarity:0.33420702990206946
+labels1:parts labels2:affiliation
+levenshtein:0.09090909090909094 synonym_distance:0.4444444444444444 Jaro_winkler:0.5272727272727272 res_similarity:0.3917734922260264
+labels1:parts labels2:in collection
+levenshtein:0.07692307692307687 synonym_distance:0.6 Jaro_winkler:0.0 res_similarity:0.2434629744451186
+labels1:parts labels2:abstract
+levenshtein:0.125 synonym_distance:0.47058823529411764 Jaro_winkler:0.6833333333333332 res_similarity:0.4372693193464977
+labels1:parts labels2:size
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.1484773460007934
+labels1:parts labels2:ontents
+levenshtein:0.2857142857142857 synonym_distance:0.375 Jaro_winkler:0.5619047619047619 res_similarity:0.4096522022706801
+labels1:parts labels2:organization
+levenshtein:0.16666666666666663 synonym_distance:0.42105263157894735 Jaro_winkler:0.5055555555555555 res_similarity:0.38146979285064203
+labels1:parts labels2:page and/or chapter data
+levenshtein:0.16666666666666663 synonym_distance:0.18181818181818188 Jaro_winkler:0.5750000000000001 res_similarity:0.2975837261292582
+labels1:parts labels2:publisher
+levenshtein:0.2222222222222222 synonym_distance:0.2857142857142857 Jaro_winkler:0.5407407407407407 res_similarity:0.3672750962742798
+labels1:parts labels2:pages
+levenshtein:0.6 synonym_distance:0.4444444444444444 Jaro_winkler:0.7866666666666667 res_similarity:0.6172480800159796
+labels1:parts labels2:language
+levenshtein:0.125 synonym_distance:0.33333333333333326 Jaro_winkler:0.44166666666666665 res_similarity:0.3032059162511745
+labels1:parts labels2:price
+levenshtein:0.19999999999999996 synonym_distance:0.6 Jaro_winkler:0.6 res_similarity:0.46540694584303555
+labels1:parts labels2:in journal
+levenshtein:0.09999999999999998 synonym_distance:0.23529411764705888 Jaro_winkler:0.43333333333333335 res_similarity:0.28994506899547534
+labels1:parts labels2:edition
+levenshtein:0.1428571428571429 synonym_distance:0.5714285714285714 Jaro_winkler:0.4476190476190476 res_similarity:0.38671833630402264
+labels1:parts labels2:issn
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.1390779123760955
+labels1:parts labels2:date
+levenshtein:0.4 synonym_distance:0.3076923076923077 Jaro_winkler:0.6333333333333333 res_similarity:0.4611962761712254
+labels1:parts labels2:annote
+levenshtein:0.16666666666666663 synonym_distance:0.2666666666666666 Jaro_winkler:0.5777777777777778 res_similarity:0.3192778235460868
+labels1:parts labels2:isbn
+levenshtein:0.0 synonym_distance:0.33333333333333326 Jaro_winkler:0.0 res_similarity:0.131110427255753
+labels1:parts labels2:title
+levenshtein:0.0 synonym_distance:0.4444444444444444 Jaro_winkler:0.46666666666666656 res_similarity:0.34258679249452617
+labels1:parts labels2:note
+levenshtein:0.19999999999999996 synonym_distance:0.3076923076923077 Jaro_winkler:0.4833333333333334 res_similarity:0.32786027747107827
+labels1:parts labels2:human creator
+levenshtein:0.23076923076923073 synonym_distance:0.2222222222222222 Jaro_winkler:0.517948717948718 res_similarity:0.34575423187395304
+labels1:parts labels2:chapter
+levenshtein:0.2857142857142857 synonym_distance:0.375 Jaro_winkler:0.5619047619047619 res_similarity:0.4235491672453514
+labels1:parts labels2:editor
+levenshtein:0.16666666666666663 synonym_distance:0.3076923076923077 Jaro_winkler:0.4555555555555555 res_similarity:0.31060282086708757
+labels1:parts labels2:published
+levenshtein:0.2222222222222222 synonym_distance:0.2857142857142857 Jaro_winkler:0.5407407407407407 res_similarity:0.3578366469382633
+labels1:parts labels2:author
+levenshtein:0.16666666666666663 synonym_distance:0.3076923076923077 Jaro_winkler:0.5777777777777778 res_similarity:0.3535575538301215
+labels1:parts labels2:lccn
+levenshtein:0.0 synonym_distance:0.25 Jaro_winkler:0.0 res_similarity:0.10414626784060431
+labels1:parts labels2:inmonography
+levenshtein:0.08333333333333337 synonym_distance:0.2222222222222222 Jaro_winkler:0.4277777777777778 res_similarity:0.2478158566684163
+labels1:parts labels2:series
+levenshtein:0.33333333333333337 synonym_distance:0.36363636363636365 Jaro_winkler:0.5777777777777778 res_similarity:0.4328497743981926
+
+----------- 304 -----------
+Precision: 46/56 = 0.8214285714285714
+Recall: 46/76 = 0.6052631578947368
+F1: 0.6969696969696969
+----------- 303 -----------
+Precision: 20/27 = 0.7407407407407407
+Recall: 20/49 = 0.40816326530612246
+F1: 0.5263157894736843
+----------- 301 -----------
+Precision: 13/16 = 0.8125
+Recall: 13/60 = 0.21666666666666667
+F1: 0.34210526315789475
+----------- 302 -----------
+Precision: 9/11 = 0.8181818181818182
+Recall: 9/47 = 0.19148936170212766
+F1: 0.31034482758620685

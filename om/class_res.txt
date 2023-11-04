@@ -1,0 +1,1 @@
+[('Mitigation', 'UserEnumeration', 0.56), ('Software', 'Software', 1.0), ('Software', 'System', 0.5714285714285714)]

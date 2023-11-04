@@ -1,0 +1,121 @@
+labels1:articles labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.16000000000000003 Jaro_winkler:0.5833333333333334   res_similarity:0.3363421101651274labels1:articles labels2:resource author
+levenshtein:0.06666666666666665 synonym_distance:0.19047619047619047 Jaro_winkler:0.5055555555555555   res_similarity:0.2554446204749512labels1:articles labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.15384615384615385 Jaro_winkler:0.49074074074074076   res_similarity:0.3119439078368106labels1:articles labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.19047619047619047 Jaro_winkler:0.5194444444444444   res_similarity:0.30699697357704014labels1:articles labels2:resource first author
+levenshtein:0.09523809523809523 synonym_distance:0.14814814814814814 Jaro_winkler:0.48769841269841274   res_similarity:0.26496821719403224labels1:publisher labels2:publication editor
+levenshtein:0.38888888888888884 synonym_distance:0.37037037037037035 Jaro_winkler:0.6666666666666666   res_similarity:0.46970792056922206labels1:publisher labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.12903225806451613 Jaro_winkler:0.4962962962962963   res_similarity:0.2889325772994072labels1:publisher labels2:resource soft copy
+levenshtein:0.11111111111111116 synonym_distance:0.11764705882352944 Jaro_winkler:0.38888888888888884   res_similarity:0.21919859280088494labels1:publisher labels2:related project
+levenshtein:0.06666666666666665 synonym_distance:0.08333333333333337 Jaro_winkler:0.39999999999999997   res_similarity:0.20147765198493306labels1:publisher labels2:resource first author
+levenshtein:0.23809523809523814 synonym_distance:0.16666666666666663 Jaro_winkler:0.46455026455026455   res_similarity:0.2961286206543864labels1:journal labels2:publication editor
+levenshtein:0.05555555555555558 synonym_distance:0.17391304347826086 Jaro_winkler:0.5306878306878308   res_similarity:0.25579260867800324labels1:journal labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.2727272727272727 Jaro_winkler:0.5293650793650794   res_similarity:0.36944820604642725labels1:journal labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.24 Jaro_winkler:0.42063492063492064   res_similarity:0.27671065447775367labels1:journal labels2:related project
+levenshtein:0.06666666666666665 synonym_distance:0.09999999999999998 Jaro_winkler:0.4317460317460317   res_similarity:0.23508141004988506labels1:journal labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.2142857142857143 Jaro_winkler:0.41269841269841273   res_similarity:0.27270579429845465labels1:pages labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.11111111111111116 Jaro_winkler:0.5037037037037037   res_similarity:0.2689811386760652labels1:pages labels2:resource author
+levenshtein:0.06666666666666665 synonym_distance:0.19999999999999996 Jaro_winkler:0.5111111111111111   res_similarity:0.2696476588471448labels1:pages labels2:resource soft copy
+levenshtein:0.11111111111111116 synonym_distance:0.17391304347826086 Jaro_winkler:0.5037037037037037   res_similarity:0.30194987338690915labels1:pages labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.12121212121212122 Jaro_winkler:0.3444444444444444   res_similarity:0.23563997834214587labels1:pages labels2:resource first author
+levenshtein:0.09523809523809523 synonym_distance:0.15384615384615385 Jaro_winkler:0.4984126984126984   res_similarity:0.2757574149368825labels1:is part of labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.0714285714285714 Jaro_winkler:0.5333333333333333   res_similarity:0.2846458448485133labels1:is part of labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.07999999999999996 Jaro_winkler:0.5   res_similarity:0.2827890763700104labels1:is part of labels2:resource soft copy
+levenshtein:0.2777777777777778 synonym_distance:0.1428571428571428 Jaro_winkler:0.5534391534391534   res_similarity:0.32725797355286573labels1:is part of labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.16000000000000003 Jaro_winkler:0.5555555555555555   res_similarity:0.31124547735556213labels1:is part of labels2:resource first author
+levenshtein:0.2857142857142857 synonym_distance:0.12903225806451613 Jaro_winkler:0.5349206349206349   res_similarity:0.3230423932565056labels1:organizer labels2:publication editor
+levenshtein:0.2222222222222222 synonym_distance:0.14814814814814814 Jaro_winkler:0.47222222222222215   res_similarity:0.3136258056296126labels1:organizer labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.16666666666666663 Jaro_winkler:0.4962962962962963   res_similarity:0.3175742317053393labels1:organizer labels2:resource soft copy
+levenshtein:0.11111111111111116 synonym_distance:0.11111111111111116 Jaro_winkler:0.47222222222222215   res_similarity:0.22547804000712202labels1:organizer labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.1333333333333333 Jaro_winkler:0.487037037037037   res_similarity:0.26355172570360974labels1:organizer labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.1333333333333333 Jaro_winkler:0.46455026455026455   res_similarity:0.29806986202169977labels1:editor labels2:publication editor
+levenshtein:0.33333333333333337 synonym_distance:0.5 Jaro_winkler:0.5555555555555555   res_similarity:0.464525117461586labels1:editor labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.19047619047619047 Jaro_winkler:0.45555555555555555   res_similarity:0.31851042270859303labels1:editor labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.08333333333333337 Jaro_winkler:0.4444444444444444   res_similarity:0.2517923003976575labels1:editor labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.2068965517241379 Jaro_winkler:0.5888888888888889   res_similarity:0.33326838456998237labels1:editor labels2:resource first author
+levenshtein:0.23809523809523814 synonym_distance:0.14814814814814814 Jaro_winkler:0.5357142857142857   res_similarity:0.3273096022093136labels1:collection labels2:publication editor
+levenshtein:0.33333333333333337 synonym_distance:0.3448275862068966 Jaro_winkler:0.5814814814814815   res_similarity:0.43641897143423924labels1:collection labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.15384615384615385 Jaro_winkler:0.5444444444444444   res_similarity:0.32788039168286054labels1:collection labels2:resource soft copy
+levenshtein:0.2222222222222222 synonym_distance:0.1428571428571428 Jaro_winkler:0.45925925925925926   res_similarity:0.2917327977371604labels1:collection labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.24 Jaro_winkler:0.47222222222222227   res_similarity:0.30488753191309514labels1:collection labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.125 Jaro_winkler:0.44603174603174606   res_similarity:0.25288494139692463labels1:communications labels2:publication editor
+levenshtein:0.2777777777777778 synonym_distance:0.4516129032258065 Jaro_winkler:0.5661375661375662   res_similarity:0.4389049029530413labels1:communications labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.11428571428571432 Jaro_winkler:0.5539682539682539   res_similarity:0.28618039486007496labels1:communications labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.12903225806451613 Jaro_winkler:0.48677248677248675   res_similarity:0.26507276442348815labels1:communications labels2:related project
+levenshtein:0.0 synonym_distance:0.1428571428571428 Jaro_winkler:0.3507936507936508   res_similarity:0.19185392044976052labels1:communications labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.09756097560975607 Jaro_winkler:0.5257936507936508   res_similarity:0.30000714424274166labels1:organization labels2:publication editor
+levenshtein:0.2777777777777778 synonym_distance:0.37037037037037035 Jaro_winkler:0.4444444444444444   res_similarity:0.35372042411365867labels1:organization labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.16666666666666663 Jaro_winkler:0.5166666666666667   res_similarity:0.3001773997659945labels1:organization labels2:resource soft copy
+levenshtein:0.2222222222222222 synonym_distance:0.1428571428571428 Jaro_winkler:0.35185185185185186   res_similarity:0.24628497688149065labels1:organization labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.19047619047619047 Jaro_winkler:0.5333333333333333   res_similarity:0.28950359688277005labels1:organization labels2:resource first author
+levenshtein:0.2857142857142857 synonym_distance:0.14814814814814814 Jaro_winkler:0.48412698412698413   res_similarity:0.31923264789389083labels1:book labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.18181818181818188 Jaro_winkler:0.5370370370370371   res_similarity:0.31430723783635833labels1:book labels2:resource author
+levenshtein:0.1333333333333333 synonym_distance:0.21052631578947367 Jaro_winkler:0.4388888888888889   res_similarity:0.27850321465800254labels1:book labels2:resource soft copy
+levenshtein:0.11111111111111116 synonym_distance:0.17391304347826086 Jaro_winkler:0.5370370370370371   res_similarity:0.27591512371188465labels1:book labels2:related project
+levenshtein:0.06666666666666665 synonym_distance:0.19047619047619047 Jaro_winkler:0.0   res_similarity:0.09265903596071982labels1:book labels2:resource first author
+levenshtein:0.09523809523809523 synonym_distance:0.16000000000000003 Jaro_winkler:0.43253968253968256   res_similarity:0.2603384657378913labels1:institution labels2:publication editor
+levenshtein:0.2777777777777778 synonym_distance:0.3846153846153846 Jaro_winkler:0.5572390572390572   res_similarity:0.4017299129934379labels1:institution labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.17391304347826086 Jaro_winkler:0.4601010101010101   res_similarity:0.2877246995699356labels1:institution labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.15384615384615385 Jaro_winkler:0.4452861952861953   res_similarity:0.24909336116182618labels1:institution labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.17391304347826086 Jaro_winkler:0.4383838383838384   res_similarity:0.2642786556625945labels1:institution labels2:resource first author
+levenshtein:0.2857142857142857 synonym_distance:0.13793103448275867 Jaro_winkler:0.43088023088023086   res_similarity:0.3001805473573469labels1:directors labels2:publication editor
+levenshtein:0.2222222222222222 synonym_distance:0.23076923076923084 Jaro_winkler:0.5555555555555555   res_similarity:0.3342133766532924labels1:directors labels2:resource author
+levenshtein:0.2666666666666667 synonym_distance:0.17391304347826086 Jaro_winkler:0.652910052910053   res_similarity:0.38253689878189695labels1:directors labels2:resource soft copy
+levenshtein:0.2222222222222222 synonym_distance:0.15384615384615385 Jaro_winkler:0.626984126984127   res_similarity:0.36297922400507665labels1:directors labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.26086956521739135 Jaro_winkler:0.5222222222222223   res_similarity:0.33930520700948885labels1:directors labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.13793103448275867 Jaro_winkler:0.5899470899470899   res_similarity:0.3151083919829748labels1:contract labels2:publication editor
+levenshtein:0.2222222222222222 synonym_distance:0.3448275862068966 Jaro_winkler:0.5833333333333334   res_similarity:0.396239452115855labels1:contract labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.08695652173913038 Jaro_winkler:0.5861111111111111   res_similarity:0.265683487640622labels1:contract labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.15384615384615385 Jaro_winkler:0.5009259259259259   res_similarity:0.2929136912115504labels1:contract labels2:related project
+levenshtein:0.2666666666666667 synonym_distance:0.17391304347826086 Jaro_winkler:0.4138888888888889   res_similarity:0.2870364609026298labels1:contract labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.06896551724137934 Jaro_winkler:0.4801587301587302   res_similarity:0.26305153565625816labels1:address labels2:publication editor
+levenshtein:0.11111111111111116 synonym_distance:0.3448275862068966 Jaro_winkler:0.4656084656084656   res_similarity:0.3232644443596058labels1:address labels2:resource author
+levenshtein:0.1333333333333333 synonym_distance:0.2727272727272727 Jaro_winkler:0.5428571428571428   res_similarity:0.3226336216348896labels1:address labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.24 Jaro_winkler:0.5978835978835978   res_similarity:0.34919497206645406labels1:address labels2:related project
+levenshtein:0.2666666666666667 synonym_distance:0.19047619047619047 Jaro_winkler:0.446031746031746   res_similarity:0.297563029697423labels1:address labels2:resource first author
+levenshtein:0.1428571428571429 synonym_distance:0.2142857142857143 Jaro_winkler:0.5873015873015873   res_similarity:0.32068563646335513labels1:proceedings labels2:publication editor
+levenshtein:0.2777777777777778 synonym_distance:0.2666666666666666 Jaro_winkler:0.5798460798460798   res_similarity:0.3687290353296916labels1:proceedings labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.18181818181818188 Jaro_winkler:0.5292929292929293   res_similarity:0.32008624762952labels1:proceedings labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.16000000000000003 Jaro_winkler:0.5151515151515151   res_similarity:0.2933892265083626labels1:proceedings labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.24 Jaro_winkler:0.5434343434343435   res_similarity:0.32196912993448956labels1:proceedings labels2:resource first author
+levenshtein:0.19047619047619047 synonym_distance:0.1428571428571428 Jaro_winkler:0.5137085137085137   res_similarity:0.28684388515762776labels1:event labels2:publication editor
+levenshtein:0.11111111111111116 synonym_distance:0.18181818181818188 Jaro_winkler:0.337037037037037   res_similarity:0.2162932498826166labels1:event labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.2857142857142857 Jaro_winkler:0.5111111111111111   res_similarity:0.33605907673377217labels1:event labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.25 Jaro_winkler:0.5888888888888889   res_similarity:0.3478429759680804labels1:event labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.2857142857142857 Jaro_winkler:0.48888888888888893   res_similarity:0.3283900798323195labels1:event labels2:resource first author
+levenshtein:0.1428571428571429 synonym_distance:0.2222222222222222 Jaro_winkler:0.580952380952381   res_similarity:0.3401222026659157labels1:chapters labels2:publication editor
+levenshtein:0.11111111111111116 synonym_distance:0.07999999999999996 Jaro_winkler:0.5675925925925926   res_similarity:0.23566765658423983labels1:chapters labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.09090909090909094 Jaro_winkler:0.5055555555555555   res_similarity:0.280488215941605labels1:chapters labels2:resource soft copy
+levenshtein:0.11111111111111116 synonym_distance:0.07999999999999996 Jaro_winkler:0.5009259259259259   res_similarity:0.24774773109260573labels1:chapters labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.18181818181818188 Jaro_winkler:0.5194444444444444   res_similarity:0.30755629726619016labels1:chapters labels2:resource first author
+levenshtein:0.1428571428571429 synonym_distance:0.13793103448275867 Jaro_winkler:0.48769841269841274   res_similarity:0.2625752139613955labels1:author labels2:publication editor
+levenshtein:0.2222222222222222 synonym_distance:0.2222222222222222 Jaro_winkler:0.5462962962962963   res_similarity:0.3312284415718357labels1:author labels2:resource author
+levenshtein:0.4 synonym_distance:0.5714285714285714 Jaro_winkler:0.45555555555555555   res_similarity:0.4856853665179937labels1:author labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.5 Jaro_winkler:0.4444444444444444   res_similarity:0.37481264341283743labels1:author labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.19047619047619047 Jaro_winkler:0.4777777777777778   res_similarity:0.27592770274885425labels1:author labels2:resource first author
+levenshtein:0.2857142857142857 synonym_distance:0.4444444444444444 Jaro_winkler:0.43650793650793646   res_similarity:0.3871941568023479labels1:location labels2:publication editor
+levenshtein:0.38888888888888884 synonym_distance:0.46153846153846156 Jaro_winkler:0.707010582010582   res_similarity:0.5263963327672947labels1:location labels2:resource author
+levenshtein:0.33333333333333337 synonym_distance:0.16666666666666663 Jaro_winkler:0.525   res_similarity:0.34870588106590006labels1:location labels2:resource soft copy
+levenshtein:0.2222222222222222 synonym_distance:0.14814814814814814 Jaro_winkler:0.49074074074074076   res_similarity:0.29839282750466894labels1:location labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.17391304347826086 Jaro_winkler:0.5888888888888889   res_similarity:0.32986672589514265labels1:location labels2:resource first author
+levenshtein:0.23809523809523814 synonym_distance:0.16666666666666663 Jaro_winkler:0.4801587301587302   res_similarity:0.3005038059317505labels1:parts labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.32000000000000006 Jaro_winkler:0.5888888888888889   res_similarity:0.34584584050771283labels1:parts labels2:resource author
+levenshtein:0.1333333333333333 synonym_distance:0.24 Jaro_winkler:0.5111111111111111   res_similarity:0.3166212606613925labels1:parts labels2:resource soft copy
+levenshtein:0.11111111111111116 synonym_distance:0.2142857142857143 Jaro_winkler:0.5037037037037037   res_similarity:0.2871751603496273labels1:parts labels2:related project
+levenshtein:0.1333333333333333 synonym_distance:0.2727272727272727 Jaro_winkler:0.48888888888888893   res_similarity:0.31996588055740904labels1:parts labels2:resource first author
+levenshtein:0.09523809523809523 synonym_distance:0.19354838709677424 Jaro_winkler:0.4984126984126984   res_similarity:0.2953105761110403labels1:human creator labels2:publication editor
+levenshtein:0.33333333333333337 synonym_distance:0.19354838709677424 Jaro_winkler:0.6196581196581197   res_similarity:0.38734598369457096labels1:human creator labels2:resource author
+levenshtein:0.33333333333333337 synonym_distance:0.1428571428571428 Jaro_winkler:0.69002849002849   res_similarity:0.39612674550532745labels1:human creator labels2:resource soft copy
+levenshtein:0.16666666666666663 synonym_distance:0.12903225806451613 Jaro_winkler:0.51994301994302   res_similarity:0.29964927780912526labels1:human creator labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.1428571428571428 Jaro_winkler:0.5094017094017094   res_similarity:0.2915438141932508labels1:human creator labels2:resource first author
+levenshtein:0.33333333333333337 synonym_distance:0.11764705882352944 Jaro_winkler:0.5588115588115589   res_similarity:0.3109607717284687labels1:school labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.14814814814814814 Jaro_winkler:0.4444444444444444   res_similarity:0.2562857708677342labels1:school labels2:resource author
+levenshtein:0.19999999999999996 synonym_distance:0.19999999999999996 Jaro_winkler:0.45555555555555555   res_similarity:0.2798285998553579labels1:school labels2:resource soft copy
+levenshtein:0.2222222222222222 synonym_distance:0.13793103448275867 Jaro_winkler:0.5462962962962963   res_similarity:0.30736598110978586labels1:school labels2:related project
+levenshtein:0.06666666666666665 synonym_distance:0.09999999999999998 Jaro_winkler:0.32222222222222224   res_similarity:0.15123917690791727labels1:school labels2:resource first author
+levenshtein:0.1428571428571429 synonym_distance:0.15384615384615385 Jaro_winkler:0.43650793650793646   res_similarity:0.2622721316255073labels1:date labels2:publication editor
+levenshtein:0.16666666666666663 synonym_distance:0.18181818181818188 Jaro_winkler:0.5370370370370371   res_similarity:0.29534135984302345labels1:date labels2:resource author
+levenshtein:0.1333333333333333 synonym_distance:0.19047619047619047 Jaro_winkler:0.4388888888888889   res_similarity:0.2651281489738709labels1:date labels2:resource soft copy
+levenshtein:0.05555555555555558 synonym_distance:0.16666666666666663 Jaro_winkler:0.4351851851851852   res_similarity:0.23131702508045648labels1:date labels2:related project
+levenshtein:0.19999999999999996 synonym_distance:0.3157894736842105 Jaro_winkler:0.6722222222222222   res_similarity:0.38156655224394labels1:date labels2:resource first author
+levenshtein:0.09523809523809523 synonym_distance:0.14814814814814814 Jaro_winkler:0.43253968253968256   res_similarity:0.27616392050672095

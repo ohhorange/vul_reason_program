@@ -1,0 +1,1 @@
+[('dataSource', 'dataSize', 0.5555555555555556), ('dataSource', 'hasSource', 0.631578947368421)]
